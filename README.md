@@ -6,8 +6,8 @@
 *Building the future, one line of code at a time*
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sylvesterranjith/)
-[![YouTube](https://img.shields.io/badge/TechWithSyl-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@TechWithSyl)
 [![Topmate](https://img.shields.io/badge/Book_a_Call-00C853?style=for-the-badge&logo=calendar&logoColor=white)](https://topmate.io/sylvester_francis)
+[![YouTube](https://img.shields.io/badge/TechWithSyl-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@TechWithSyl)
 [![GitHub](https://img.shields.io/badge/Check_My_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sylvester-francis)
 
 </div>
@@ -20,7 +20,7 @@
 
 I'm that engineer who gets excited about solving problems that others find "impossible." With **7+ years** of turning coffee into code, I specialize in building AI-powered applications that don't just work—they **revolutionize** how teams operate.
 
-Currently crafting the next generation of intelligent systems at **OpenText** 🏢 and sharing knowledge with the world through **TechWithSyl** 📺
+Currently exploring exciting new opportunities while helping developers accelerate their careers through personalized mentoring and consulting.
 
 **💡 Fun Fact:** I once built an automation tool that saved my team 75% of their time. They still talk about it at coffee breaks! ☕
 
@@ -50,10 +50,10 @@ Currently crafting the next generation of intelligent systems at **OpenText** �
 - React, Angular, Next.js - crafting UIs that users love
 - APIs that are so clean, they spark joy ✨
 
-### 🎓 **Knowledge Sharer**
+### 🎓 **Career Catalyst**
 - Mentoring the next generation of developers
-- YouTube creator helping thousands learn tech
 - 1:1 consulting for career acceleration
+- Helping teams level up their tech game
 
 </td>
 </tr>
@@ -119,20 +119,6 @@ CLI tool that analyzes, documents, and suggests improvements for your codebase.
 
 ---
 
-## 📺 Content & Community
-
-### **YouTube: TechWithSyl** 🎬
-Where I break down complex tech concepts into digestible, fun content:
-- 🚀 Software Engineering Best Practices
-- 🤖 AI/ML Implementation Tutorials  
-- ☁️ Cloud Technologies Deep Dives
-- 💼 Developer Career Guidance
-- 🔥 Latest Tech Trends & Reviews
-
-*Join thousands of developers who level up their skills with my content!*
-
----
-
 ## 💬 Let's Work Together!
 
 ### **🎯 1:1 Mentoring & Consulting** 
@@ -151,6 +137,19 @@ Book a session with me on [**Topmate**](https://topmate.io/sylvester_francis) fo
 </div>
 
 **⭐ 4.9/5 Rating** - *Real developers, real results!*
+
+---
+
+## 📚 Knowledge Sharing & Community
+
+Beyond building systems, I'm passionate about growing the tech community:
+
+- 🎯 **1:1 Mentoring** - Helping developers navigate career transitions and technical challenges
+- 🎬 **Content Creation** - Sharing insights on [TechWithSyl](https://www.youtube.com/@TechWithSyl) about software engineering and AI
+- 💡 **Open Source** - Contributing to projects that make developers' lives easier
+- 🎤 **Speaking** - Discussing AI/ML trends and career development in tech
+
+*Always excited to connect with fellow developers and share knowledge!*
 
 ---
 
@@ -181,19 +180,19 @@ Book a session with me on [**Topmate**](https://topmate.io/sylvester_francis) fo
 - **15 hours** saved weekly through smart automation
 
 **🏆 Recognition**
-- "Outstanding Achievement" award at OpenText
+- Proven track record of delivering high-impact solutions
 - Trusted mentor for hundreds of developers
-- Speaker and thought leader in AI/ML space
+- Thought leader in AI/ML implementation
 
 ---
 
 ## 🌈 Life Beyond Code
 
 When I'm not crafting the next breakthrough application:
-- 🎬 Creating educational content for fellow developers
-- 🎯 Mentoring the next generation of tech talent  
-- 📚 Exploring the latest AI research papers
+- 🎯 Mentoring aspiring developers and career changers
+- 📚 Exploring the latest AI research and experimenting with new models
 - ☕ Perfecting my coffee brewing skills (it's an art!)
+- 🎬 Creating content to help others learn and grow in tech
 
 ---
 
@@ -206,7 +205,7 @@ When I'm not crafting the next breakthrough application:
 [![Email Me](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sylvesterranjithfrancis@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn_Chat-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sylvesterranjith/)
 [![Book a Call](https://img.shields.io/badge/Book_a_Call-00C853?style=for-the-badge&logo=calendar&logoColor=white)](https://topmate.io/sylvester_francis)
-[![YouTube](https://img.shields.io/badge/Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@TechWithSyl)
+[![YouTube](https://img.shields.io/badge/TechWithSyl-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@TechWithSyl)
 
 **📍 Based in Waterloo, ON, Canada** 🇨🇦
 
