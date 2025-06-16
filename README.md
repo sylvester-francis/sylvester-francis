@@ -9,6 +9,9 @@
 [![Topmate](https://img.shields.io/badge/Book_a_Call-00C853?style=for-the-badge&logo=calendar&logoColor=white)](https://topmate.io/sylvester_francis)
 [![YouTube](https://img.shields.io/badge/TechWithSyl-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@TechWithSyl)
 [![GitHub](https://img.shields.io/badge/Check_My_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sylvester-francis)
+[![Medium](https://img.shields.io/badge/Medium-Follow-black?style=for-the-badge&logo=medium)](https://medium.com/@sylvesterranjithfrancis)
+[![Instagram](https://img.shields.io/badge/Instagram-@techwithsyl-purple?style=for-the-badge&logo=instagram)](https://instagram.com/techwithsyl)
+
 
 </div>
 
