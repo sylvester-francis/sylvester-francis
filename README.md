@@ -333,36 +333,6 @@ Production-ready models with LoRA fine-tuning, optimized for React, Next.js, Ang
 
 <br/>
 
-## `> cat highlights.log`
-
-```
-┌──────────────────────────────────────────────────────────────────────────────┐
-│                              HIGHLIGHTS                                      │
-├──────────────────────────────────────────────────────────────────────────────┤
-│                                                                              │
-│  [AWARD]         Outstanding Achievement Award — OpenText, May 2024          │
-│                  Recognized for delivering the Media Viewer feature           │
-│                                                                              │
-│  [PUBLICATION]   "Predicting Brain Tumors in MRI Images via FCNN"            │
-│                  Medico Legal Update, Jul 2024                               │
-│                  Deep learning for early tumor detection (BraTS 2017)         │
-│                                                                              │
-│  [EDUCATION]     M.S. Computer Science — VIT (2018-2020)                     │
-│                  2x High Distinction Graduate — Conestoga College (90%+)     │
-│                  Big Data Solutions Architecture & App Security               │
-│                                                                              │
-│  [CERTS]         9 Professional Certifications                               │
-│                  Udacity ML Engineer | HarvardX CS50 | Coursera              │
-│                  edX | DataCamp | Pluralsight                                │
-│                                                                              │
-│  [COMMUNITY]     4,000+ LinkedIn Followers                                   │
-│                  Active sharing on AI, DevOps, and career growth              │
-│                                                                              │
-└──────────────────────────────────────────────────────────────────────────────┘
-```
-
-<br/>
-
 ---
 
 <br/>
