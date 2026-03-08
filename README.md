@@ -6,15 +6,15 @@
 
 <a href="https://sylvesterranjithfrancis.com"><img src="https://img.shields.io/badge/Portfolio-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/sylvesterranjith/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://topmate.io/sylvester_francis"><img src="https://img.shields.io/badge/Book%20a%20Call-22c55e?style=for-the-badge&logo=googlecalendar&logoColor=white"/></a>
-<a href="https://www.youtube.com/@TechWithSyl"><img src="https://img.shields.io/badge/TechWithSyl-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 <a href="https://medium.com/@sylvesterranjithfrancis"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
-<a href="https://instagram.com/techwithsyl"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://techwithsyl.substack.com"><img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white"/></a>
+<a href="https://www.youtube.com/@TechWithSyl"><img src="https://img.shields.io/badge/TechWithSyl-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="https://topmate.io/sylvester_francis"><img src="https://img.shields.io/badge/Book%20a%20Call-22c55e?style=for-the-badge&logo=googlecalendar&logoColor=white"/></a>
 <a href="mailto:sylvesterranjithfrancis@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&repeat=true&width=500&height=45&lines=7%2B+years+of+shipping+real+products;Building+AI+agents+%26+dev+tools;Cloud+infra+%26+open+source+builder;GenAI+consultant+%26+mentor" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&repeat=true&width=600&height=45&lines=7%2B+years+building+production+systems;GenAI+agents+%7C+Cloud+infra+%7C+DevOps;From+ML+research+to+shipping+real+products;Open+source+contributor+%26+mentor" alt="Typing SVG" />
 
 <br/>
 
@@ -30,15 +30,41 @@
 name: Sylvester Francis
 location: Waterloo, ON, Canada
 role: Tech Solutions Architect & GenAI Consultant
-experience: 7+ years
+experience: 7+ years shipping production systems
+
+journey:
+  - Master's in CS from VIT | Big Data & Security certs from Conestoga (High Distinction)
+  - Published ML researcher (brain tumor prediction using FCNNs)
+  - Built ETL pipelines & data engineering systems at OpenText
+  - Now architecting GenAI solutions at Intuitive.ai
+  - 4K+ LinkedIn followers | 500+ professional connections
 
 currently:
-  - Building open-source infra monitoring tools in Go
+  - Building open-source infra monitoring tools in Go (WatchDog)
   - Shipping GenAI-powered compliance & documentation systems
+  - Fine-tuning small language models for TypeScript code generation
   - Mentoring developers on career growth via Topmate
 
-passion: Solving hard problems and shipping useful open-source tools
+awards:
+  - Outstanding Achievement Award (OpenText) — Media Viewer delivery
+  - Graduated with High Distinction — Big Data Solutions Architecture
+  - Graduated with High Distinction — Computer Application Security
+  - Machine Learning Engineer Nanodegree — Udacity
 ```
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+## GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=sylvester-francis&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" width="90%"/>
+
+</div>
 
 <br/>
 
@@ -123,7 +149,7 @@ passion: Solving hard problems and shipping useful open-source tools
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center"><a href="https://github.com/sylvester-francis/Automated-Document-Compliance-Auditor">Compliance Auditor</a></h3>
+<h3 align="center"><a href="https://github.com/sylvester-francis/Automated-Document-Compliance-Auditor">Compliance Auditor</a> &#11088;</h3>
 
 <div align="center">
 
@@ -142,27 +168,6 @@ Audits documents for regulatory compliance, identifies violations with pattern m
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center"><a href="https://github.com/sylvester-francis/Watchdog">WatchDog</a></h3>
-
-<div align="center">
-
-![Stars](https://img.shields.io/github/stars/sylvester-francis/Watchdog?style=for-the-badge&color=f59e0b&label=Stars&logo=github)
-
-</div>
-
-> Open-source infrastructure monitoring system in Go
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![REST](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-3-repo architecture: **Hub** (central server with dashboard), **Agent** (lightweight binary for private networks), and **Proto** (shared message protocol). Full outbound-only WebSocket comms.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 <h3 align="center"><a href="https://github.com/sylvester-francis/DocumentationGenerator">Documentation Generator</a></h3>
 
 <div align="center">
@@ -178,6 +183,27 @@ Audits documents for regulatory compliance, identifies violations with pattern m
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 Multi-agent system using LangGraph that fetches code from GitHub, analyzes structure, generates comprehensive technical docs, and syncs everything to Confluence.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center"><a href="https://github.com/sylvester-francis/Watchdog">WatchDog</a></h3>
+
+<div align="center">
+
+![Stars](https://img.shields.io/github/stars/sylvester-francis/Watchdog?style=for-the-badge&color=f59e0b&label=Stars&logo=github)
+
+</div>
+
+> Open-source infrastructure monitoring system in Go
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![REST](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+3-repo architecture: **Hub** (central server with dashboard), **Agent** (lightweight binary for private networks), and **Proto** (shared message protocol). Full outbound-only WebSocket comms.
 
 </td>
 <td width="50%" valign="top">
@@ -203,6 +229,25 @@ Full Ubuntu installer with Docker, PostgreSQL, HTTPS, security hardening, visual
 <tr>
 <td width="50%" valign="top">
 
+<h3 align="center"><a href="https://github.com/sylvester-francis/slm-typescript-model">SLM TypeScript Model</a></h3>
+
+<div align="center">
+
+![Stars](https://img.shields.io/github/stars/sylvester-francis/slm-typescript-model?style=for-the-badge&color=f59e0b&label=Stars&logo=github)
+
+</div>
+
+> Fine-tuned small language models for TypeScript code gen
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LoRA](https://img.shields.io/badge/LoRA-FF6F00?style=flat-square&logo=pytorch&logoColor=white)
+
+Production-ready 1.5B-7B models with LoRA fine-tuning, optimized for React, Next.js, Angular, and Node.js. High-quality code generation at a fraction of the size and cost.
+
+</td>
+<td width="50%" valign="top">
+
 <h3 align="center"><a href="https://github.com/sylvester-francis/ota-deploy-tracker">OTA Deploy Tracker</a></h3>
 
 <div align="center">
@@ -220,6 +265,8 @@ Full Ubuntu installer with Docker, PostgreSQL, HTTPS, security hardening, visual
 Kubernetes deployment manager with FastAPI backend, Streamlit dashboard, and Prometheus monitoring for tracking progressive rollouts in real time.
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <h3 align="center"><a href="https://github.com/sylvester-francis/Sentry">Sentry</a></h3>
@@ -236,6 +283,25 @@ Kubernetes deployment manager with FastAPI backend, Streamlit dashboard, and Pro
 ![Dagger](https://img.shields.io/badge/Dagger-131226?style=flat-square&logo=dagger&logoColor=white)
 
 Dagger module that integrates Trivy, Grype, and Snyk to perform vulnerability scans, enforce container best practices, and generate compliance reports in CI/CD pipelines.
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center"><a href="https://github.com/sylvester-francis/Lintelligence">Lintelligence</a></h3>
+
+<div align="center">
+
+![Stars](https://img.shields.io/github/stars/sylvester-francis/Lintelligence?style=for-the-badge&color=f59e0b&label=Stars&logo=github)
+
+</div>
+
+> AI-powered GitHub PR code reviewer
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![GPT4](https://img.shields.io/badge/GPT--4-412991?style=flat-square&logo=openai&logoColor=white)
+
+Automatically reviews GitHub pull requests using GPT-4. Detects code smells, security issues, and anti-patterns, then posts constructive inline feedback.
 
 </td>
 </tr>
@@ -261,42 +327,21 @@ Full-featured CLI booking system with JWT auth, conflict resolution, and reserva
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center"><a href="https://github.com/sylvester-francis/Lintelligence">Lintelligence</a></h3>
+<h3 align="center"><a href="https://github.com/sylvester-francis/taskflow">TaskFlow</a></h3>
 
 <div align="center">
 
-![Stars](https://img.shields.io/github/stars/sylvester-francis/Lintelligence?style=for-the-badge&color=f59e0b&label=Stars&logo=github)
+![Stars](https://img.shields.io/github/stars/sylvester-francis/taskflow?style=for-the-badge&color=f59e0b&label=Stars&logo=github)
 
 </div>
 
-> AI-powered GitHub PR code reviewer
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![GPT4](https://img.shields.io/badge/GPT--4-412991?style=flat-square&logo=openai&logoColor=white)
-
-Automatically reviews GitHub pull requests using GPT-4. Detects code smells, security issues, and anti-patterns, then posts constructive inline feedback.
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-<h3 align="center"><a href="https://github.com/sylvester-francis/slm-typescript-model">SLM TypeScript Model</a></h3>
-
-<div align="center">
-
-![Stars](https://img.shields.io/github/stars/sylvester-francis/slm-typescript-model?style=for-the-badge&color=f59e0b&label=Stars&logo=github)
-
-</div>
-
-> Fine-tuned small language models (1.5B-7B) specialized in TypeScript code generation
+> FastAPI task tracking with JWT & K8s support
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![LoRA](https://img.shields.io/badge/LoRA-FF6F00?style=flat-square&logo=pytorch&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
-Production-ready models with LoRA fine-tuning, optimized for React, Next.js, Angular, and Node.js. Achieves high-quality code generation at a fraction of the size and cost of full LLMs.
+Production-ready task tracking system with JWT authentication, role-based access control, and Kubernetes deployment manifests. Built with FastAPI and PostgreSQL.
 
 </td>
 </tr>
@@ -333,6 +378,27 @@ Production-ready models with LoRA fine-tuning, optimized for React, Next.js, Ang
 
 <br/>
 
+<div align="center">
+
+## Writing & Content
+
+</div>
+
+<br/>
+
+<div align="center">
+
+| Platform | What I Write About |
+|:---:|:---|
+| <a href="https://techwithsyl.substack.com"><img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" height="28"/></a> | DevOps tooling, container security, Dagger deep dives, career transition guides |
+| <a href="https://medium.com/@sylvesterranjithfrancis"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" height="28"/></a> | GenAI architectures, agent design patterns, cloud infrastructure deep dives |
+| <a href="https://www.linkedin.com/in/sylvesterranjith/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/></a> | Career insights, tech industry trends, developer mentoring tips |
+| <a href="https://www.youtube.com/@TechWithSyl"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="28"/></a> | Tech tutorials, project walkthroughs, coding sessions |
+
+</div>
+
+<br/>
+
 ---
 
 <br/>
@@ -348,28 +414,22 @@ Production-ready models with LoRA fine-tuning, optimized for React, Next.js, Ang
 <div align="center">
 
 ```
-┌─────────────────────────┬─────────────────────────┬─────────────────────────┐
-│      AI SOLUTIONS       │   CLOUD ARCHITECTURE    │    DEVOPS & SECURITY    │
-│                         │                         │                         │
-│  Multi-agent systems,   │  AWS & Azure infra      │  CI/CD, container       │
-│  GenAI platforms, and   │  with security and      │  security, monitoring,  │
-│  intelligent automation │  cost optimization      │  deploy automation      │
-├─────────────────────────┼─────────────────────────┼─────────────────────────┤
-│    CAREER MENTORING     │      CODE REVIEW        │  TECHNICAL CONSULTING   │
-│                         │                         │                         │
-│  1:1 sessions for       │  Expert reviews, best   │  System architecture    │
-│  career transitions,    │  practices, and         │  and technology         │
-│  interview prep, resume │  technical mentorship   │  strategy for teams     │
-└─────────────────────────┴─────────────────────────┴─────────────────────────┘
++---------------------------+---------------------------+---------------------------+
+|      AI SOLUTIONS         |   CLOUD ARCHITECTURE      |    DEVOPS & SECURITY      |
+|                           |                           |                           |
+|  Multi-agent systems,     |  AWS & Azure infra        |  CI/CD, container         |
+|  GenAI platforms, and     |  with security and        |  security, monitoring,    |
+|  intelligent automation   |  cost optimization        |  deploy automation        |
++---------------------------+---------------------------+---------------------------+
+|    CAREER MENTORING       |      CODE REVIEW          |  TECHNICAL CONSULTING     |
+|                           |                           |                           |
+|  1:1 sessions for         |  Expert reviews, best     |  System architecture      |
+|  career transitions,      |  practices, and           |  and technology           |
+|  interview prep, resume   |  technical mentorship     |  strategy for teams       |
++---------------------------+---------------------------+---------------------------+
 ```
 
-</div>
-
 <br/>
-
-<div align="center">
-
-### Book a 1:1 session
 
 <a href="https://topmate.io/sylvester_francis"><img src="https://img.shields.io/badge/Schedule%20on%20Topmate-22c55e?style=for-the-badge&logo=googlecalendar&logoColor=white&labelColor=16a34a" height="40"/></a>
 
@@ -391,8 +451,9 @@ Production-ready models with LoRA fine-tuning, optimized for React, Next.js, Ang
 <a href="https://www.linkedin.com/in/sylvesterranjith/"><img src="https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://topmate.io/sylvester_francis"><img src="https://img.shields.io/badge/Book_a_Call-22c55e?style=for-the-badge&logo=googlecalendar&logoColor=white"/></a>
 <a href="https://github.com/sylvester-francis"><img src="https://img.shields.io/badge/Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://instagram.com/techwithsyl"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
-<br/>
+<br/><br/>
 
 **Based in Waterloo, ON, Canada** :canada:
 
