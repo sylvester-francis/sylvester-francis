@@ -1,225 +1,430 @@
-# Hey there! 👋 I'm Sylvester Francis
-
 <div align="center">
 
-**🚀 Tech Solutions Architect & GenAI Consultant**  
-*Building the future, one line of code at a time*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:06b6d4,100:22c55e&height=280&section=header&text=Sylvester%20Francis&fontSize=75&fontAlignY=32&desc=Tech%20Solutions%20Architect%20%E2%80%A2%20GenAI%20Consultant%20%E2%80%A2%20Open%20Source%20Builder&descAlignY=52&descSize=18&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sylvesterranjith/)
-[![Topmate](https://img.shields.io/badge/Book_a_Call-00C853?style=for-the-badge&logo=calendar&logoColor=white)](https://topmate.io/sylvester_francis)
-[![YouTube](https://img.shields.io/badge/TechWithSyl-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@TechWithSyl)
-[![GitHub](https://img.shields.io/badge/Check_My_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sylvester-francis)
-[![Medium](https://img.shields.io/badge/Medium-Follow-black?style=for-the-badge&logo=medium)](https://medium.com/@sylvesterranjithfrancis)
-[![Instagram](https://img.shields.io/badge/Instagram-@techwithsyl-purple?style=for-the-badge&logo=instagram)](https://instagram.com/techwithsyl)
+<br/>
 
+<a href="https://sylvesterranjithfrancis.com"><img src="https://img.shields.io/badge/Portfolio-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/sylvesterranjith/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://topmate.io/sylvester_francis"><img src="https://img.shields.io/badge/Book%20a%20Call-22c55e?style=for-the-badge&logo=googlecalendar&logoColor=white"/></a>
+<a href="https://www.youtube.com/@TechWithSyl"><img src="https://img.shields.io/badge/TechWithSyl-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="https://medium.com/@sylvesterranjithfrancis"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
+<a href="https://instagram.com/techwithsyl"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="mailto:sylvesterranjithfrancis@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=26&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=90&lines=Senior+Engineer+with+7%2B+years+of+shipping+real+products;Building+AI+agents+%7C+Cloud+infra+%7C+Dev+tools;From+compliance+AI+to+infrastructure+monitoring+in+Go" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=sylvester-francis&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS"/>
 
 </div>
 
+<br/>
+
+## `> whoami`
+
+```yaml
+name: Sylvester Francis
+location: Waterloo, ON, Canada
+role: Tech Solutions Architect & GenAI Consultant
+experience: 7+ years
+
+currently:
+  - Building open-source infra monitoring tools in Go
+  - Shipping GenAI-powered compliance & documentation systems
+  - Mentoring developers on career growth via Topmate
+
+superpower: Turning "that's impossible" into a shipped product
+```
+
+<br/>
+
+<div align="center">
+
+## Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=sylvester-francis&theme=algolia&no-frame=true&no-bg=true&column=8&margin-w=10" width="100%"/>
+
+</div>
+
+<br/>
+
 ---
 
-## 🌟 What I'm All About
+<br/>
 
-> *Transforming ideas into intelligent solutions that actually matter*
+<div align="center">
 
-I'm that engineer who gets excited about solving problems that others find "impossible." With **7+ years** of turning coffee into code, I specialize in building AI-powered applications that don't just work—they **revolutionize** how teams operate.
+## Tech Stack
 
-Currently exploring exciting new opportunities while helping developers accelerate their careers through personalized mentoring and consulting.
+</div>
 
-**💡 Fun Fact:** I once built an automation tool that saved my team 75% of their time. They still talk about it at coffee breaks! ☕
+<br/>
 
----
-
-## 🎯 My Superpowers
-
-<table>
+<table align="center">
 <tr>
-<td width="50%">
+<td align="center" width="25%">
 
-### 🤖 **AI Whisperer**
-- Making LLMs do exactly what I want
-- Building multi-agent systems that feel magical
-- Turning boring processes into AI-powered experiences
+<h4>Languages</h4>
 
-### ☁️ **Cloud Architect** 
-- AWS & Azure are my playgrounds
-- Docker containers? Child's play
-- Scaling from 0 to infinity (almost!)
+<img src="https://skillicons.dev/icons?i=python,go,typescript,cs,kotlin,javascript&perline=3&theme=dark" />
 
 </td>
-<td width="50%">
+<td align="center" width="25%">
 
-### 🏗️ **Full-Stack Wizard**
-- Python, C#, JavaScript - I speak them all fluently
-- React, Angular, Next.js - crafting UIs that users love
-- APIs that are so clean, they spark joy ✨
+<h4>AI / ML</h4>
 
-### 🎓 **Career Catalyst**
-- Mentoring the next generation of developers
-- 1:1 consulting for career acceleration
-- Helping teams level up their tech game
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&perline=3&theme=dark" />
+
+<br/><br/>
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+</td>
+<td align="center" width="25%">
+
+<h4>Cloud & DevOps</h4>
+
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,jenkins&perline=3&theme=dark" />
+
+<br/><br/>
+
+![Dagger](https://img.shields.io/badge/Dagger-131226?style=flat-square&logo=dagger&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+
+</td>
+<td align="center" width="25%">
+
+<h4>Frameworks</h4>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,nodejs,nestjs,dotnet&perline=3&theme=dark" />
+
+<br/><br/>
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 </td>
 </tr>
 </table>
 
+<br/>
+
 ---
 
-## 🛠️ Tech Arsenal
+<br/>
 
 <div align="center">
 
-### Languages I Think In
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-
-### Frameworks That Make Magic Happen
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-
-### AI/ML Playground
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
-### Cloud & DevOps Magic
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+## Featured Projects
 
 </div>
 
----
+<br/>
 
-## 🎪 Cool Stuff I've Built
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 🤖 **AI Regex Generator** | *Because regex shouldn't be rocket science*
-Transform plain English into perfect regex patterns. No more Stack Overflow hunting!
-> **Impact:** Made regex accessible to developers worldwide
-
-### 📋 **Smart Compliance Auditor** | *GDPR/HIPAA checking on autopilot*
-AI-powered document scanner that catches compliance issues before they become problems.
-> **Impact:** Saved legal teams countless hours of manual review
-
-### 📚 **Auto Documentation Generator** | *The end of "I'll document it later"*
-Multi-agent AI system that reads your code and writes better docs than most humans.
-> **Impact:** 80% reduction in documentation overhead
-
-### 💼 **AI Career Advisor App** | *Your pocket-sized career coach*
-Android app that provides personalized career guidance using GenAI.
-> **Impact:** Democratized career counseling for thousands
-
-### 🔍 **CodexAgent** | *Your AI-powered code reviewer*
-CLI tool that analyzes, documents, and suggests improvements for your codebase.
-> **Impact:** Enhanced code quality across multiple development teams
-
----
-
-## 💬 Let's Work Together!
-
-### **🎯 1:1 Mentoring & Consulting** 
-Book a session with me on [**Topmate**](https://topmate.io/sylvester_francis) for:
+<h3 align="center"><a href="https://github.com/sylvester-francis/Automated-Document-Compliance-Auditor">Compliance Auditor</a></h3>
 
 <div align="center">
 
-| 🚀 **Tech Career Navigation** | 📝 **Resume Review** | 🎯 **Interview Prep** |
+![Stars](https://img.shields.io/github/stars/sylvester-francis/Automated-Document-Compliance-Auditor?style=for-the-badge&color=f59e0b&label=Stars&logo=github)
+
+</div>
+
+> GenAI-powered GDPR/HIPAA document scanner with Claude API
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_API-191919?style=flat-square&logo=anthropic&logoColor=white)
+
+Audits documents for regulatory compliance, identifies violations with pattern matching and AI analysis, and suggests automated remediations. My most starred project.
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center"><a href="https://github.com/sylvester-francis/Watchdog">WatchDog</a></h3>
+
+<div align="center">
+
+![Stars](https://img.shields.io/github/stars/sylvester-francis/Watchdog?style=for-the-badge&color=f59e0b&label=Stars&logo=github)
+
+</div>
+
+> Open-source infrastructure monitoring system in Go
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![REST](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+3-repo architecture: **Hub** (central server with dashboard), **Agent** (lightweight binary for private networks), and **Proto** (shared message protocol). Full outbound-only WebSocket comms.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center"><a href="https://github.com/sylvester-francis/DocumentationGenerator">Documentation Generator</a></h3>
+
+<div align="center">
+
+![Stars](https://img.shields.io/github/stars/sylvester-francis/DocumentationGenerator?style=for-the-badge&color=f59e0b&label=Stars&logo=github)
+
+</div>
+
+> AI multi-agent documentation automation
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+Multi-agent system using LangGraph that fetches code from GitHub, analyzes structure, generates comprehensive technical docs, and syncs everything to Confluence.
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center"><a href="https://github.com/sylvester-francis/n8n-selfhoster">n8n Self-Hoster</a></h3>
+
+<div align="center">
+
+![Stars](https://img.shields.io/github/stars/sylvester-francis/n8n-selfhoster?style=for-the-badge&color=f59e0b&label=Stars&logo=github)
+
+</div>
+
+> One-click production N8N automation installer
+
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+Full Ubuntu installer with Docker, PostgreSQL, HTTPS, security hardening, visual progress tracking, and intelligent error recovery. Zero to production in minutes.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center"><a href="https://github.com/sylvester-francis/ota-deploy-tracker">OTA Deploy Tracker</a></h3>
+
+<div align="center">
+
+![Stars](https://img.shields.io/github/stars/sylvester-francis/ota-deploy-tracker?style=for-the-badge&color=f59e0b&label=Stars&logo=github)
+
+</div>
+
+> Progressive K8s deployment manager
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+
+Kubernetes deployment manager with FastAPI backend, Streamlit dashboard, and Prometheus monitoring for tracking progressive rollouts in real time.
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center"><a href="https://github.com/sylvester-francis/Sentry">Sentry</a></h3>
+
+<div align="center">
+
+![Stars](https://img.shields.io/github/stars/sylvester-francis/Sentry?style=for-the-badge&color=f59e0b&label=Stars&logo=github)
+
+</div>
+
+> Container security auditing for CI/CD
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Dagger](https://img.shields.io/badge/Dagger-131226?style=flat-square&logo=dagger&logoColor=white)
+
+Dagger module that integrates Trivy, Grype, and Snyk to perform vulnerability scans, enforce container best practices, and generate compliance reports in CI/CD pipelines.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center"><a href="https://github.com/sylvester-francis/Resource-Reserver">Resource Reserver</a></h3>
+
+<div align="center">
+
+![Stars](https://img.shields.io/github/stars/sylvester-francis/Resource-Reserver?style=for-the-badge&color=f59e0b&label=Stars&logo=github)
+
+</div>
+
+> CLI resource reservation system
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Typer](https://img.shields.io/badge/Typer-009688?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+Full-featured CLI booking system with JWT auth, conflict resolution, and reservation management. Built with Python Typer + FastAPI backend.
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center"><a href="https://github.com/sylvester-francis/Lintelligence">Lintelligence</a></h3>
+
+<div align="center">
+
+![Stars](https://img.shields.io/github/stars/sylvester-francis/Lintelligence?style=for-the-badge&color=f59e0b&label=Stars&logo=github)
+
+</div>
+
+> AI-powered GitHub PR code reviewer
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![GPT4](https://img.shields.io/badge/GPT--4-412991?style=flat-square&logo=openai&logoColor=white)
+
+Automatically reviews GitHub pull requests using GPT-4. Detects code smells, security issues, and anti-patterns, then posts constructive inline feedback.
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+<h3 align="center"><a href="https://github.com/sylvester-francis/slm-typescript-model">SLM TypeScript Model</a></h3>
+
+<div align="center">
+
+![Stars](https://img.shields.io/github/stars/sylvester-francis/slm-typescript-model?style=for-the-badge&color=f59e0b&label=Stars&logo=github)
+
+</div>
+
+> Fine-tuned small language models (1.5B-7B) specialized in TypeScript code generation
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LoRA](https://img.shields.io/badge/LoRA-FF6F00?style=flat-square&logo=pytorch&logoColor=white)
+
+Production-ready models with LoRA fine-tuning, optimized for React, Next.js, Angular, and Node.js. Achieves high-quality code generation at a fraction of the size and cost of full LLMs.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+## GitHub Stats
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=sylvester-francis&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=22c55e&text_color=c9d1d9&count_private=true&include_all_commits=true&ring_color=6366f1" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sylvester-francis&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=c9d1d9&langs_count=8" width="42%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sylvester-francis&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=f59e0b&currStreakLabel=818cf8&sideLabels=c9d1d9&dates=555555&stroke=222222" width="55%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sylvester-francis&bg_color=0d1117&color=818cf8&line=6366f1&point=22c55e&area=true&area_color=6366f1&hide_border=true&custom_title=Contribution%20Activity" width="92%"/>
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+## Services & Mentoring
+
+</div>
+
+<br/>
+
+<div align="center">
+
+| | | |
 |:---:|:---:|:---:|
-| Land your next role with confidence | Get your resume noticed | Ace those technical interviews |
-
-| 💼 **Career Guidance** | ⚡ **Quick Chat** | 💎 **Priority DM** |
-|:---:|:---:|:---:|
-| Especially for Co-op students & early career professionals in Canada | Fast solutions to your burning tech questions | Jump the queue for urgent consultations |
-
-</div>
-
-**⭐ 4.9/5 Rating** - *Real developers, real results!*
-
----
-
-## 📚 Knowledge Sharing & Community
-
-Beyond building systems, I'm passionate about growing the tech community:
-
-- 🎯 **1:1 Mentoring** - Helping developers navigate career transitions and technical challenges
-- 🎬 **Content Creation** - Sharing insights on [TechWithSyl](https://www.youtube.com/@TechWithSyl) about software engineering and AI
-- 💡 **Open Source** - Contributing to projects that make developers' lives easier
-- 🎤 **Speaking** - Discussing AI/ML trends and career development in tech
-
-*Always excited to connect with fellow developers and share knowledge!*
-
----
-
-## 🏆 The Numbers Don't Lie
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sylvester-francis&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sylvester-francis&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sylvester-francis&theme=tokyonight&hide_border=true)
+| <img width="50" src="https://img.icons8.com/nolan/96/artificial-intelligence.png"/> | <img width="50" src="https://img.icons8.com/nolan/96/cloud.png"/> | <img width="50" src="https://img.icons8.com/nolan/96/shield.png"/> |
+| **AI Solutions** | **Cloud Architecture** | **DevOps & Security** |
+| Multi-agent systems, GenAI platforms, intelligent automation | AWS & Azure infra with security and cost optimization | CI/CD, container security, monitoring, deploy automation |
+| | | |
+| <img width="50" src="https://img.icons8.com/nolan/96/compass.png"/> | <img width="50" src="https://img.icons8.com/nolan/96/code.png"/> | <img width="50" src="https://img.icons8.com/nolan/96/lightbulb-idea.png"/> |
+| **Career Mentoring** | **Code Review** | **Technical Consulting** |
+| 1:1 sessions for career transitions, interview prep, resume review | Expert reviews, best practices, and technical mentorship | System architecture and technology strategy for teams |
 
 </div>
 
----
-
-## 🎯 My Track Record
-
-**🚀 Performance Optimization**
-- **75%** efficiency boost through NLP automation
-- **30%** runtime performance improvement 
-- **65%** memory usage reduction
-
-**⚡ Process Innovation** 
-- **40%** increase in automation coverage
-- **30%** reduction in manual workloads
-- **15 hours** saved weekly through smart automation
-
-**🏆 Recognition**
-- Proven track record of delivering high-impact solutions
-- Trusted mentor for hundreds of developers
-- Thought leader in AI/ML implementation
-
----
-
-## 🌈 Life Beyond Code
-
-When I'm not crafting the next breakthrough application:
-- 🎯 Mentoring aspiring developers and career changers
-- 📚 Exploring the latest AI research and experimenting with new models
-- ☕ Perfecting my coffee brewing skills (it's an art!)
-- 🎬 Creating content to help others learn and grow in tech
-
----
-
-## 📬 Let's Connect!
+<br/>
 
 <div align="center">
 
-**Ready to build something amazing together?**
+### Book a 1:1 session
 
-[![Email Me](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sylvesterranjithfrancis@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn_Chat-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sylvesterranjith/)
-[![Book a Call](https://img.shields.io/badge/Book_a_Call-00C853?style=for-the-badge&logo=calendar&logoColor=white)](https://topmate.io/sylvester_francis)
-[![YouTube](https://img.shields.io/badge/TechWithSyl-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@TechWithSyl)
-
-**📍 Based in Waterloo, ON, Canada** 🇨🇦
+<a href="https://topmate.io/sylvester_francis"><img src="https://img.shields.io/badge/Schedule%20on%20Topmate-22c55e?style=for-the-badge&logo=googlecalendar&logoColor=white&labelColor=16a34a" height="40"/></a>
 
 </div>
 
+<br/>
+
 ---
+
+<br/>
 
 <div align="center">
 
-*"The best way to predict the future is to create it. Let's build something extraordinary together!"*
+## Impact
 
-**⭐ If you found my profile interesting, don't forget to star some repos! ⭐**
+</div>
+
+<br/>
+
+```
+ PERFORMANCE                          PROCESS                              RECOGNITION
+ ─────────────────────                ──────────────────────               ─────────────────────
+ ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ 75%           ▓▓▓▓▓▓▓▓░░░░░░░░░░░░ 40%           Proven track record of
+ Efficiency via NLP automation        Automation coverage increase          high-impact solutions
+
+ ▓▓▓▓▓▓░░░░░░░░░░░░░░ 30%           ▓▓▓▓▓▓░░░░░░░░░░░░░░ 30%           Trusted mentor for
+ Runtime performance boost            Manual workload reduction            hundreds of developers
+
+ ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ 65%           ████████████████ 15hrs              Thought leader in
+ Memory usage reduction               Saved weekly via automation          AI/ML implementation
+```
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+### Let's build something extraordinary
+
+<br/>
+
+<a href="mailto:sylvesterranjithfrancis@gmail.com"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/sylvesterranjith/"><img src="https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://topmate.io/sylvester_francis"><img src="https://img.shields.io/badge/Book_a_Call-22c55e?style=for-the-badge&logo=googlecalendar&logoColor=white"/></a>
+<a href="https://github.com/sylvester-francis"><img src="https://img.shields.io/badge/Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<br/>
+
+**Based in Waterloo, ON, Canada** :canada:
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:06b6d4,100:22c55e&height=130&section=footer" width="100%"/>
 
 </div>
