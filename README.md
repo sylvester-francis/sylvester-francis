@@ -314,12 +314,12 @@ Production-ready models with LoRA fine-tuning, optimized for React, Next.js, Ang
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=sylvester-francis&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=22c55e&text_color=c9d1d9&count_private=true&include_all_commits=true&ring_color=6366f1" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sylvester-francis&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=c9d1d9&langs_count=8" width="42%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sylvester-francis&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=22c55e&text_color=c9d1d9&count_private=true&include_all_commits=true&ring_color=6366f1" width="49%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sylvester-francis&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=c9d1d9&langs_count=8" width="42%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sylvester-francis&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=f59e0b&currStreakLabel=818cf8&sideLabels=c9d1d9&dates=555555&stroke=222222" width="55%"/>
+<img src="https://streak-stats.demolab.com/?user=sylvester-francis&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=f59e0b&currStreakLabel=818cf8&sideLabels=c9d1d9&dates=555555&stroke=222222" width="55%"/>
 
 <br/><br/>
 
