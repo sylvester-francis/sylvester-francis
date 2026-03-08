@@ -14,7 +14,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=26&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=90&lines=Senior+Engineer+with+7%2B+years+of+shipping+real+products;Building+AI+agents+%7C+Cloud+infra+%7C+Dev+tools;From+compliance+AI+to+infrastructure+monitoring+in+Go" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&repeat=true&width=500&height=45&lines=7%2B+years+of+shipping+real+products;Building+AI+agents+%26+dev+tools;Cloud+infra+%26+open+source+builder;GenAI+consultant+%26+mentor" alt="Typing SVG" />
 
 <br/>
 
