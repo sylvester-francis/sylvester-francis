@@ -37,18 +37,8 @@ currently:
   - Shipping GenAI-powered compliance & documentation systems
   - Mentoring developers on career growth via Topmate
 
-superpower: Turning "that's impossible" into a shipped product
+passion: Solving hard problems and shipping useful open-source tools
 ```
-
-<br/>
-
-<div align="center">
-
-## Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=sylvester-francis&theme=algolia&no-frame=true&no-bg=true&column=8&margin-w=10" width="100%"/>
-
-</div>
 
 <br/>
 
@@ -383,34 +373,7 @@ Production-ready models with LoRA fine-tuning, optimized for React, Next.js, Ang
 
 <div align="center">
 
-## Impact
-
-</div>
-
-<br/>
-
-```
- PERFORMANCE                          PROCESS                              RECOGNITION
- ─────────────────────                ──────────────────────               ─────────────────────
- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ 75%           ▓▓▓▓▓▓▓▓░░░░░░░░░░░░ 40%           Proven track record of
- Efficiency via NLP automation        Automation coverage increase          high-impact solutions
-
- ▓▓▓▓▓▓░░░░░░░░░░░░░░ 30%           ▓▓▓▓▓▓░░░░░░░░░░░░░░ 30%           Trusted mentor for
- Runtime performance boost            Manual workload reduction            hundreds of developers
-
- ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ 65%           ████████████████ 15hrs              Thought leader in
- Memory usage reduction               Saved weekly via automation          AI/ML implementation
-```
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-
-### Let's build something extraordinary
+### Let's connect
 
 <br/>
 
