@@ -347,15 +347,21 @@ Production-ready models with LoRA fine-tuning, optimized for React, Next.js, Ang
 
 <div align="center">
 
-| | | |
-|:---:|:---:|:---:|
-| <img width="50" src="https://img.icons8.com/nolan/96/artificial-intelligence.png"/> | <img width="50" src="https://img.icons8.com/nolan/96/cloud.png"/> | <img width="50" src="https://img.icons8.com/nolan/96/shield.png"/> |
-| **AI Solutions** | **Cloud Architecture** | **DevOps & Security** |
-| Multi-agent systems, GenAI platforms, intelligent automation | AWS & Azure infra with security and cost optimization | CI/CD, container security, monitoring, deploy automation |
-| | | |
-| <img width="50" src="https://img.icons8.com/nolan/96/compass.png"/> | <img width="50" src="https://img.icons8.com/nolan/96/code.png"/> | <img width="50" src="https://img.icons8.com/nolan/96/lightbulb-idea.png"/> |
-| **Career Mentoring** | **Code Review** | **Technical Consulting** |
-| 1:1 sessions for career transitions, interview prep, resume review | Expert reviews, best practices, and technical mentorship | System architecture and technology strategy for teams |
+```
+┌─────────────────────────┬─────────────────────────┬─────────────────────────┐
+│      AI SOLUTIONS       │   CLOUD ARCHITECTURE    │    DEVOPS & SECURITY    │
+│                         │                         │                         │
+│  Multi-agent systems,   │  AWS & Azure infra      │  CI/CD, container       │
+│  GenAI platforms, and   │  with security and      │  security, monitoring,  │
+│  intelligent automation │  cost optimization      │  deploy automation      │
+├─────────────────────────┼─────────────────────────┼─────────────────────────┤
+│    CAREER MENTORING     │      CODE REVIEW        │  TECHNICAL CONSULTING   │
+│                         │                         │                         │
+│  1:1 sessions for       │  Expert reviews, best   │  System architecture    │
+│  career transitions,    │  practices, and         │  and technology         │
+│  interview prep, resume │  technical mentorship   │  strategy for teams     │
+└─────────────────────────┴─────────────────────────┴─────────────────────────┘
+```
 
 </div>
 
