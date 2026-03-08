@@ -335,6 +335,77 @@ Production-ready models with LoRA fine-tuning, optimized for React, Next.js, Ang
 
 <div align="center">
 
+## Highlights
+
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+**Outstanding Achievement Award**
+
+OpenText, May 2024
+
+Recognized for delivering the Media Viewer feature
+
+</td>
+<td align="center" width="33%">
+
+**Published Researcher**
+
+Medico Legal Update, Jul 2024
+
+"Predicting Brain Tumors in MRI Images via FCNN" — deep learning for early tumor detection
+
+</td>
+<td align="center" width="33%">
+
+**2x High Distinction Graduate**
+
+Conestoga College, 90%+ average
+
+Big Data Solutions Architecture & Computer Application Security
+
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+
+**M.S. — Vellore Institute of Technology**
+
+2018–2020
+
+Master's degree in Computer Science
+
+</td>
+<td align="center" width="33%">
+
+**9 Professional Certifications**
+
+Udacity ML Engineer, HarvardX CS50, Coursera, edX, DataCamp, Pluralsight
+
+</td>
+<td align="center" width="33%">
+
+**4,000+ LinkedIn Followers**
+
+Active community sharing insights on AI, DevOps, and career growth
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
 ## Services & Mentoring
 
 </div>
