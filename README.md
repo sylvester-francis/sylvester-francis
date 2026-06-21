@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:06b6d4,100:22c55e&height=280&section=header&text=Sylvester%20Francis&fontSize=75&fontAlignY=32&desc=Principal%20Platform%20Engineer%20%E2%80%A2%20Infrastructure%20%E2%80%A2%20Open%20Source&descAlignY=52&descSize=18&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:06b6d4,100:22c55e&height=240&section=header&text=sylvester-francis&fontSize=58&fontAlignY=34&desc=Principal%20Platform%20Engineer%20%E2%80%A2%20Infrastructure%20%E2%80%A2%20Open%20Source&descAlignY=54&descSize=18&fontColor=ffffff&animation=fadeIn&font=JetBrains%20Mono" width="100%"/>
 
 <br/>
 
@@ -14,7 +14,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&repeat=true&width=680&height=45&lines=8%2B+years+in+platform+and+infrastructure+engineering;Go+%7C+Python+%7C+Kubernetes+%7C+OpenStack+%7C+Ory;Self-service+platforms+and+golden-image+pipelines;Open-source+tooling+for+infra+and+agentic+AI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&repeat=true&width=700&height=45&lines=8%2B+years+in+platform+and+infrastructure+engineering;Go+%7C+Python+%7C+Kubernetes+%7C+OpenStack+%7C+Ory;Self-service+platforms+and+golden-image+pipelines;Open-source+tooling+for+infra+and+agentic+AI" alt="Typing SVG" />
 
 <br/>
 
@@ -24,26 +24,83 @@
 
 <br/>
 
-## `systemctl status sylvester.platform`
-
-```ini
-● sylvester.platform - Principal Platform Engineer
-     Loaded: loaded (8+ years; platform and infrastructure engineering)
-     Active: running
-   Location: Waterloo, ON, Canada
-    Primary: Go        Also: TypeScript, Python, Rust
-       Owns: golden-image platform, authorization, orchestration
-    Writing: open-source tooling and engineering deep dives
+```
+ about.go x  |  stack.yaml  |  architecture.mmd  |  projects/  |  writing.md  |  contact.md
 ```
 
-I am a Principal Platform Engineer with 8+ years in platform and infrastructure
-engineering. I architected a self-service developer platform from the ground up to drive a
-large-scale VMware vSphere to OpenStack migration, and I now lead an enterprise
-golden-image platform and own its identity and authorization layer. I work primarily in Go,
-build open-source tooling, and write for an expert engineering audience.
+<table>
+<tr>
+<td valign="top" width="32%">
+
+<strong>EXPLORER</strong>
+
+```text
+SYLVESTER-FRANCIS
+│
+├── about.go
+├── stack.yaml
+├── architecture.mmd
+├── projects/
+│   ├── open-source/
+│   └── more/
+├── writing.md
+├── telemetry/
+└── contact.md
+```
+
+</td>
+<td valign="top" width="68%">
+
+<strong><code>about.go</code></strong>
+
+```go
+package profile
+
+// Principal Platform Engineer.
+// 8+ years in platform and infrastructure engineering.
+type Engineer struct {
+    Role     string
+    Primary  string
+    Also     []string
+    Owns     []string
+    Writes   string
+    Location string
+}
+
+func Sylvester() Engineer {
+    return Engineer{
+        Role:    "Principal Platform Engineer",
+        Primary: "Go",
+        Also:    []string{"TypeScript", "Python", "Rust"},
+        Owns: []string{
+            "golden-image platform",
+            "authorization and identity layer",
+            "platform orchestration",
+        },
+        Writes:   "open-source tooling and engineering deep dives",
+        Location: "Waterloo, ON, Canada",
+    }
+}
+```
+
+</td>
+</tr>
+</table>
+
+I architected a self-service developer platform from the ground up to drive a large-scale
+VMware vSphere to OpenStack migration, and I now lead an enterprise golden-image platform and
+own its identity and authorization layer. I work primarily in Go, build open-source tooling,
+and write for an expert engineering audience.
+
+```console
+$ git log --oneline profile/career
+now       principal platform engineer
+recent    etl and data engineering at opentext
+earlier   published ml researcher, master's in cs (vit)
+```
 
 <details>
-<summary><code>$ uname -a   # background, community, awards</code></summary>
+<summary><code>$ cat profile/background.md</code></summary>
 
 <br/>
 
@@ -62,20 +119,17 @@ build open-source tooling, and write for an expert engineering audience.
 
 <br/>
 
-<div align="center">
+## `stack.yaml`
 
-## Path
-
-</div>
-
-<br/>
-
-```mermaid
-timeline
-  title Engineering path
-  Earlier : Master's in CS (VIT) : Published ML researcher
-  OpenText : ETL and data engineering : ML model delivery
-  Now : Principal Platform Engineer : Self-service platforms and golden-image pipelines
+```yaml
+languages:     [Go, TypeScript, Python, Rust]
+cloud:         [Kubernetes, OpenStack, AWS, Azure]
+build_and_iac: [Dagger, DBOS, OpenTofu, gophercloud]
+identity:      [Ory Kratos, Ory Keto, Ory Hydra, Vault]
+security:      [Trivy, OpenSCAP]
+backend:       [NestJS, React, PostgreSQL]
+observability: [OpenTelemetry]
+ai_agentic:    [LangChain, LangGraph, MCP, Claude API, OpenAI API]
 ```
 
 <br/>
@@ -84,13 +138,7 @@ timeline
 
 <br/>
 
-<div align="center">
-
-## Control Plane
-
-</div>
-
-<br/>
+## `architecture.mmd`
 
 ```mermaid
 flowchart LR
@@ -113,21 +161,14 @@ flowchart LR
   class dev,builders,dbos,otel side;
 ```
 
-<br/>
-
-| Component | State | What it does |
+| Service | State | Detail |
 |---|:---:|---|
-| **golden-image platform** | ![running](https://img.shields.io/badge/running-22c55e?style=flat-square) | Build, scan (Trivy, OpenSCAP), mandatory approval gate, promote, and multi-region OpenStack Glance distribution. Dual-cloud ephemeral builders (OpenStack and AWS EC2), Dagger-executed builds, DBOS durable workflows, and reliability hardening. |
-| **authorization platform** | ![running](https://img.shields.io/badge/running-22c55e?style=flat-square) | Hierarchical RBAC on Ory Keto relation tuples, multi-tenant hierarchy, check-time inheritance via Ory Permission Language, a live single-writer topology sync from OpenStack, identity and OIDC SSO on Ory Kratos, and audit logging. |
-| **platform orchestration** | ![running](https://img.shields.io/badge/running-22c55e?style=flat-square) | A self-service internal developer platform, a Go OpenStack gateway (gophercloud), OpenTofu IaC on Kubernetes, and OpenTelemetry observability. |
+| **golden-image platform** | ![active](https://img.shields.io/badge/active-22c55e?style=flat-square) | Build, scan (Trivy, OpenSCAP), mandatory approval gate, promote, and multi-region OpenStack Glance distribution. Dual-cloud ephemeral builders (OpenStack and AWS EC2), Dagger-executed builds, DBOS durable workflows, and reliability hardening. |
+| **authorization platform** | ![active](https://img.shields.io/badge/active-22c55e?style=flat-square) | Hierarchical RBAC on Ory Keto relation tuples, multi-tenant hierarchy, check-time inheritance via Ory Permission Language, a live single-writer topology sync from OpenStack, identity and OIDC SSO on Ory Kratos, and audit logging. |
+| **platform orchestration** | ![active](https://img.shields.io/badge/active-22c55e?style=flat-square) | A self-service internal developer platform, a Go OpenStack gateway (gophercloud), OpenTofu IaC on Kubernetes, and OpenTelemetry observability. |
 
-<br/>
-
-<div align="center">
-
-### Authorization check
-
-</div>
+<details>
+<summary><code>$ cat authz_check.mmd</code></summary>
 
 <br/>
 
@@ -142,58 +183,7 @@ sequenceDiagram
   IDP->>Audit: log decision
 ```
 
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-
-## Runtime
-
-</div>
-
-<br/>
-
-```mermaid
-mindmap
-  root((platform))
-    Languages
-      Go
-      TypeScript
-      Python
-      Rust
-    Cloud
-      Kubernetes
-      OpenStack
-      AWS
-      Azure
-    Build and IaC
-      Dagger
-      DBOS
-      OpenTofu
-      gophercloud
-    Identity and Security
-      Ory Kratos
-      Ory Keto
-      Ory Hydra
-      Trivy
-      OpenSCAP
-      Vault
-    Backend
-      NestJS
-      React
-      PostgreSQL
-    Observability
-      OpenTelemetry
-    AI and Agentic
-      LangChain
-      LangGraph
-      MCP
-      Claude API
-      OpenAI API
-```
+</details>
 
 <br/>
 
@@ -201,13 +191,7 @@ mindmap
 
 <br/>
 
-<div align="center">
-
-## Open Source
-
-</div>
-
-<br/>
+## `projects/open-source/`
 
 <table>
 <tr>
@@ -286,19 +270,7 @@ from a declarative manifest.
 
 <br/>
 
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-
-## More Projects
-
-</div>
-
-<br/>
+## `projects/more/`
 
 <table>
 <tr>
@@ -461,56 +433,9 @@ Built with FastAPI and PostgreSQL.
 
 <br/>
 
-<div align="center">
+## `writing.md`
 
-## Telemetry
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=sylvester-francis&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="92%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sylvester-francis&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=22c55e&text_color=c9d1d9&count_private=true&include_all_commits=true&ring_color=6366f1" width="49%"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sylvester-francis&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=c9d1d9&langs_count=8" width="42%"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=sylvester-francis&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=f59e0b&currStreakLabel=818cf8&sideLabels=c9d1d9&dates=555555&stroke=222222" width="55%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sylvester-francis&bg_color=0d1117&color=818cf8&line=6366f1&point=22c55e&area=true&area_color=6366f1&hide_border=true&custom_title=Contribution%20Activity" width="92%"/>
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sylvester-francis/sylvester-francis/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sylvester-francis/sylvester-francis/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake traversing the contribution graph" src="https://raw.githubusercontent.com/sylvester-francis/sylvester-francis/output/github-contribution-grid-snake.svg" width="92%" />
-</picture>
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-
-## Writing & Content
-
-</div>
-
-<br/>
-
-<div align="center">
-
-**Latest from Medium** (auto-updated)
-
-</div>
+**Latest from Medium** (auto-updated daily)
 
 <!-- BLOG-POST-LIST:START -->
 - [Production Authorization: The Dual-Write Hazard, and a Blueprint for Machine Identity](https://medium.com/@sylvesterranjithfrancis/production-authorization-the-dual-write-hazard-and-a-blueprint-for-machine-identity-0ade10b53aa3?source=rss-b2e231d8e9db------2)
@@ -519,8 +444,6 @@ Built with FastAPI and PostgreSQL.
 - [I’m Tired of Being My AI’s Short-Term Memory. So I Built ctxforge.](https://medium.com/@sylvesterranjithfrancis/im-tired-of-being-my-ai-s-short-term-memory-so-i-built-ctxforge-eda0a5889d8f?source=rss-b2e231d8e9db------2)
 - [I Built an AI Tutor That Runs Entirely on a Phone, Part 2: The Architecture](https://medium.com/@sylvesterranjithfrancis/i-built-an-ai-tutor-that-runs-entirely-on-a-phone-part-2-the-architecture-66de6d6bf087?source=rss-b2e231d8e9db------2)
 <!-- BLOG-POST-LIST:END -->
-
-<br/>
 
 <div align="center">
 
@@ -539,13 +462,34 @@ Built with FastAPI and PostgreSQL.
 
 <br/>
 
+## `telemetry/`
+
 <div align="center">
 
-## Services & Mentoring
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sylvester-francis&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=22c55e&text_color=c9d1d9&count_private=true&include_all_commits=true&ring_color=6366f1" width="49%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sylvester-francis&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=c9d1d9&langs_count=8" width="42%"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=sylvester-francis&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=f59e0b&currStreakLabel=818cf8&sideLabels=c9d1d9&dates=555555&stroke=222222" width="55%"/>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sylvester-francis/sylvester-francis/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sylvester-francis/sylvester-francis/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake traversing the contribution graph" src="https://raw.githubusercontent.com/sylvester-francis/sylvester-francis/output/github-contribution-grid-snake.svg" width="92%" />
+</picture>
 
 </div>
 
 <br/>
+
+---
+
+<br/>
+
+## `services.md`
 
 <div align="center">
 
@@ -577,11 +521,9 @@ Built with FastAPI and PostgreSQL.
 
 <br/>
 
+## `contact.md`
+
 <div align="center">
-
-### Let's connect
-
-<br/>
 
 <a href="mailto:sylvesterranjithfrancis@gmail.com"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/sylvesterranjith/"><img src="https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -593,8 +535,6 @@ Built with FastAPI and PostgreSQL.
 
 **Based in Waterloo, ON, Canada**
 
-<br/>
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:06b6d4,100:22c55e&height=130&section=footer" width="100%"/>
-
-</div>
