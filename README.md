@@ -46,6 +46,9 @@ background:
   - Published ML researcher (brain tumor prediction using FCNNs)
   - Built ETL pipelines and data engineering systems at OpenText
 
+community:
+  - 4K+ LinkedIn followers | 500+ professional connections
+
 writing:
   - Open-source tooling and engineering deep dives for an expert audience
 ```
@@ -124,11 +127,9 @@ gateway (gophercloud), OpenTofu IaC on Kubernetes, and OpenTelemetry observabili
 <h4>Platform Tooling</h4>
 
 ![Dagger](https://img.shields.io/badge/Dagger-131226?style=flat-square&logo=dagger&logoColor=white)
-![DBOS](https://img.shields.io/badge/DBOS-0B0B0B?style=flat-square&logoColor=white)
 ![gophercloud](https://img.shields.io/badge/gophercloud-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Ory](https://img.shields.io/badge/Ory_Kratos%2FKeto%2FHydra-000?style=flat-square&logoColor=white)
+![Ory](https://img.shields.io/badge/Ory-000?style=flat-square&logo=ory&logoColor=white)
 ![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aqua&logoColor=white)
-![OpenSCAP](https://img.shields.io/badge/OpenSCAP-555?style=flat-square&logoColor=white)
 
 </td>
 <td align="center" width="25%">
@@ -142,7 +143,6 @@ gateway (gophercloud), OpenTofu IaC on Kubernetes, and OpenTelemetry observabili
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000?style=flat-square&logo=opentelemetry&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-191919?style=flat-square&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude_API-191919?style=flat-square&logo=anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
 
