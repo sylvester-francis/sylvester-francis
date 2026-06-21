@@ -254,8 +254,17 @@ from a declarative manifest.
 
 <br/>
 
-<details>
-<summary align="center"><code>$ ls ~/projects   # more open source</code></summary>
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+## More Projects
+
+</div>
 
 <br/>
 
@@ -413,8 +422,6 @@ Built with FastAPI and PostgreSQL.
 </td>
 </tr>
 </table>
-
-</details>
 
 <br/>
 
