@@ -467,6 +467,10 @@ Built with FastAPI and PostgreSQL.
 
 <br/>
 
+<img src="https://github-profile-trophy.vercel.app/?username=sylvester-francis&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="92%"/>
+
+<br/><br/>
+
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sylvester-francis&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=22c55e&text_color=c9d1d9&count_private=true&include_all_commits=true&ring_color=6366f1" width="49%"/>
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sylvester-francis&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=c9d1d9&langs_count=8" width="42%"/>
 
@@ -499,6 +503,17 @@ Built with FastAPI and PostgreSQL.
 ## Writing & Content
 
 </div>
+
+<br/>
+
+<div align="center">
+
+**Latest from Medium** (auto-updated)
+
+</div>
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <br/>
 
