@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:06b6d4,100:22c55e&height=280&section=header&text=Sylvester%20Francis&fontSize=75&fontAlignY=32&desc=Tech%20Solutions%20Architect%20%E2%80%A2%20GenAI%20Consultant%20%E2%80%A2%20Open%20Source%20Builder&descAlignY=52&descSize=18&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:06b6d4,100:22c55e&height=280&section=header&text=Sylvester%20Francis&fontSize=75&fontAlignY=32&desc=Principal%20Platform%20Engineer%20%E2%80%A2%20Infrastructure%20%E2%80%A2%20Open%20Source&descAlignY=52&descSize=18&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -14,7 +14,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&repeat=true&width=600&height=45&lines=7%2B+years+building+production+systems;GenAI+agents+%7C+Cloud+infra+%7C+DevOps;From+ML+research+to+shipping+real+products;Open+source+contributor+%26+mentor" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&repeat=true&width=640&height=45&lines=8%2B+years+in+platform+and+infrastructure+engineering;Go+%7C+Kubernetes+%7C+OpenStack+%7C+Ory;Self-service+platforms+and+golden-image+pipelines;Open-source+tooling+for+infra+and+agentic+AI" alt="Typing SVG" />
 
 <br/>
 
@@ -27,30 +27,61 @@
 ## `> whoami`
 
 ```yaml
-name: Sylvester Francis
+name: Sylvester Ranjith Francis
 location: Waterloo, ON, Canada
-role: Tech Solutions Architect & GenAI Consultant
-experience: 7+ years shipping production systems
+role: Principal Platform Engineer @ Intuitive.ai
+experience: 8+ years in platform and infrastructure engineering
+primary_language: Go
+also: TypeScript, Python, Rust
 
-journey:
-  - Master's in CS from VIT | Big Data & Security certs from Conestoga (High Distinction)
+what_i_own:
+  - Self-service developer platform built from the ground up to drive a
+    VMware vSphere to OpenStack migration
+  - Enterprise golden-image platform: build, scan, approve, promote, distribute
+  - Identity and authorization layer for the platform
+
+background:
+  - Master's in CS from VIT
+  - Big Data & Security certifications from Conestoga (High Distinction)
   - Published ML researcher (brain tumor prediction using FCNNs)
-  - Built ETL pipelines & data engineering systems at OpenText
-  - Now architecting GenAI solutions at Intuitive.ai
-  - 4K+ LinkedIn followers | 500+ professional connections
+  - Built ETL pipelines and data engineering systems at OpenText
 
-currently:
-  - Building open-source infra monitoring tools in Go (WatchDog)
-  - Shipping GenAI-powered compliance & documentation systems
-  - Fine-tuning small language models for TypeScript code generation
-  - Mentoring developers on career growth via Topmate
-
-awards:
-  - Outstanding Achievement Award (OpenText) — Media Viewer delivery
-  - Graduated with High Distinction — Big Data Solutions Architecture
-  - Graduated with High Distinction — Computer Application Security
-  - Machine Learning Engineer Nanodegree — Udacity
+writing:
+  - Open-source tooling and engineering deep dives for an expert audience
 ```
+
+<br/>
+
+I am a Principal Platform Engineer at Intuitive.ai with 8+ years in platform and
+infrastructure engineering. I architected a self-service developer platform from the
+ground up to drive a large-scale VMware vSphere to OpenStack migration, and I now lead an
+enterprise golden-image platform and own its identity and authorization layer. I work
+primarily in Go, build open-source tooling, and write for an expert engineering audience.
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+## What I'm working on
+
+</div>
+
+<br/>
+
+**Golden-image platform.** Build, scan (Trivy, OpenSCAP), mandatory approval gate, promote,
+and multi-region OpenStack Glance distribution. Dual-cloud ephemeral builders (OpenStack and
+AWS EC2), Dagger-executed builds, DBOS durable workflows, and reliability hardening.
+
+**Authorization platform.** Hierarchical RBAC on Ory Keto relation tuples, multi-tenant
+hierarchy, check-time inheritance via Ory Permission Language, a live single-writer topology
+sync from OpenStack, identity and OIDC SSO on Ory Kratos, and audit logging.
+
+**Platform orchestration.** A self-service internal developer platform, a Go OpenStack
+gateway (gophercloud), OpenTofu IaC on Kubernetes, and OpenTelemetry observability.
 
 <br/>
 
@@ -72,46 +103,48 @@ awards:
 
 <h4>Languages</h4>
 
-<img src="https://skillicons.dev/icons?i=python,go,typescript,cs,kotlin,javascript&perline=3&theme=dark" />
+<img src="https://skillicons.dev/icons?i=go,typescript,python,rust&perline=4&theme=dark" />
 
 </td>
 <td align="center" width="25%">
 
-<h4>AI / ML</h4>
+<h4>Cloud & Infrastructure</h4>
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&perline=3&theme=dark" />
+<img src="https://skillicons.dev/icons?i=kubernetes,aws,azure,docker&perline=4&theme=dark" />
 
 <br/><br/>
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![OpenStack](https://img.shields.io/badge/OpenStack-ED1944?style=flat-square&logo=openstack&logoColor=white)
+![OpenTofu](https://img.shields.io/badge/OpenTofu-FFDA18?style=flat-square&logo=opentofu&logoColor=black)
+![Vault](https://img.shields.io/badge/Vault-000?style=flat-square&logo=vault&logoColor=white)
 
 </td>
 <td align="center" width="25%">
 
-<h4>Cloud & DevOps</h4>
-
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,jenkins&perline=3&theme=dark" />
-
-<br/><br/>
+<h4>Platform Tooling</h4>
 
 ![Dagger](https://img.shields.io/badge/Dagger-131226?style=flat-square&logo=dagger&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![DBOS](https://img.shields.io/badge/DBOS-0B0B0B?style=flat-square&logoColor=white)
+![gophercloud](https://img.shields.io/badge/gophercloud-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Ory](https://img.shields.io/badge/Ory_Kratos%2FKeto%2FHydra-000?style=flat-square&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aqua&logoColor=white)
+![OpenSCAP](https://img.shields.io/badge/OpenSCAP-555?style=flat-square&logoColor=white)
 
 </td>
 <td align="center" width="25%">
 
-<h4>Frameworks</h4>
+<h4>Backend & AI</h4>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,angular,nodejs,nestjs,dotnet&perline=3&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nestjs,react,nodejs,postgres&perline=4&theme=dark" />
 
 <br/><br/>
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000?style=flat-square&logo=opentelemetry&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-191919?style=flat-square&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_API-191919?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
 
 </td>
 </tr>
@@ -125,7 +158,96 @@ awards:
 
 <div align="center">
 
-## Featured Projects
+## Featured Open Source
+
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+<h3 align="center"><a href="https://usewatchdog.dev">WatchDog</a></h3>
+
+<div align="center">
+
+![Stars](https://img.shields.io/github/stars/sylvester-francis/Watchdog?style=for-the-badge&color=f59e0b&label=Stars&logo=github)
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![AGPL-3.0](https://img.shields.io/badge/AGPL--3.0-3DA639?style=flat-square&logo=gnu&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white)
+
+</div>
+
+Infrastructure monitoring with a hub-and-spoke WebSocket architecture. A central hub serves
+the dashboard, and lightweight agents report from private networks over outbound-only
+connections.
+
+<div align="center">
+
+<a href="https://usewatchdog.dev">usewatchdog.dev</a> &middot; <a href="https://github.com/sylvester-francis/Watchdog">GitHub</a>
+
+</div>
+
+</td>
+<td width="33%" valign="top">
+
+<h3 align="center"><a href="https://github.com/sylvester-francis/Sentry">Sentry</a></h3>
+
+<div align="center">
+
+![Stars](https://img.shields.io/github/stars/sylvester-francis/Sentry?style=for-the-badge&color=f59e0b&label=Stars&logo=github)
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Dagger](https://img.shields.io/badge/Dagger-131226?style=flat-square&logo=dagger&logoColor=white)
+
+</div>
+
+Container-security Dagger module that integrates Trivy, Grype, and Snyk to run vulnerability
+scans inside CI/CD pipelines and report findings.
+
+<div align="center">
+
+<a href="https://github.com/sylvester-francis/Sentry">GitHub</a>
+
+</div>
+
+</td>
+<td width="33%" valign="top">
+
+<h3 align="center"><a href="https://github.com/sylvester-francis/ctxforge">ctxforge</a></h3>
+
+<div align="center">
+
+![Stars](https://img.shields.io/github/stars/sylvester-francis/ctxforge?style=for-the-badge&color=f59e0b&label=Stars&logo=github)
+
+![Rust](https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust&logoColor=white)
+
+</div>
+
+CLI for manifest-driven LLM context bundles for agentic AI. Assembles reproducible context
+from a declarative manifest.
+
+<div align="center">
+
+<a href="https://github.com/sylvester-francis/ctxforge">GitHub</a>
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+## More Projects
 
 </div>
 
@@ -135,21 +257,20 @@ awards:
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center"><a href="https://github.com/sylvester-francis/Automated-Document-Compliance-Auditor">Compliance Auditor</a> &#11088;</h3>
+<h3 align="center"><a href="https://github.com/sylvester-francis/Automated-Document-Compliance-Auditor">Compliance Auditor</a></h3>
 
 <div align="center">
 
 ![Stars](https://img.shields.io/github/stars/sylvester-francis/Automated-Document-Compliance-Auditor?style=for-the-badge&color=f59e0b&label=Stars&logo=github)
 
-</div>
-
-> GenAI-powered GDPR/HIPAA document scanner with Claude API
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude_API-191919?style=flat-square&logo=anthropic&logoColor=white)
 
-Audits documents for regulatory compliance, identifies violations with pattern matching and AI analysis, and suggests automated remediations. My most starred project.
+</div>
+
+Audits documents for GDPR and HIPAA compliance. Identifies violations through pattern
+matching and LLM analysis, then suggests remediations.
 
 </td>
 <td width="50%" valign="top">
@@ -160,38 +281,18 @@ Audits documents for regulatory compliance, identifies violations with pattern m
 
 ![Stars](https://img.shields.io/github/stars/sylvester-francis/DocumentationGenerator?style=for-the-badge&color=f59e0b&label=Stars&logo=github)
 
-</div>
-
-> AI multi-agent documentation automation
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-Multi-agent system using LangGraph that fetches code from GitHub, analyzes structure, generates comprehensive technical docs, and syncs everything to Confluence.
+</div>
+
+Multi-agent system on LangGraph that fetches code from GitHub, analyzes structure, generates
+technical docs, and syncs them to Confluence.
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-<h3 align="center"><a href="https://github.com/sylvester-francis/Watchdog">WatchDog</a></h3>
-
-<div align="center">
-
-![Stars](https://img.shields.io/github/stars/sylvester-francis/Watchdog?style=for-the-badge&color=f59e0b&label=Stars&logo=github)
-
-</div>
-
-> Open-source infrastructure monitoring system in Go
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![REST](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-3-repo architecture: **Hub** (central server with dashboard), **Agent** (lightweight binary for private networks), and **Proto** (shared message protocol). Full outbound-only WebSocket comms.
-
-</td>
 <td width="50%" valign="top">
 
 <h3 align="center"><a href="https://github.com/sylvester-francis/n8n-selfhoster">n8n Self-Hoster</a></h3>
@@ -200,19 +301,16 @@ Multi-agent system using LangGraph that fetches code from GitHub, analyzes struc
 
 ![Stars](https://img.shields.io/github/stars/sylvester-francis/n8n-selfhoster?style=for-the-badge&color=f59e0b&label=Stars&logo=github)
 
-</div>
-
-> One-click production N8N automation installer
-
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-Full Ubuntu installer with Docker, PostgreSQL, HTTPS, security hardening, visual progress tracking, and intelligent error recovery. Zero to production in minutes.
+</div>
+
+Ubuntu installer for n8n with Docker, PostgreSQL, HTTPS, security hardening, progress
+tracking, and error recovery.
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <h3 align="center"><a href="https://github.com/sylvester-francis/slm-typescript-model">SLM TypeScript Model</a></h3>
@@ -221,17 +319,18 @@ Full Ubuntu installer with Docker, PostgreSQL, HTTPS, security hardening, visual
 
 ![Stars](https://img.shields.io/github/stars/sylvester-francis/slm-typescript-model?style=for-the-badge&color=f59e0b&label=Stars&logo=github)
 
-</div>
-
-> Fine-tuned small language models for TypeScript code gen
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![LoRA](https://img.shields.io/badge/LoRA-FF6F00?style=flat-square&logo=pytorch&logoColor=white)
 
-Production-ready 1.5B-7B models with LoRA fine-tuning, optimized for React, Next.js, Angular, and Node.js. High-quality code generation at a fraction of the size and cost.
+</div>
+
+Small language models (1.5B to 7B) with LoRA fine-tuning for TypeScript code generation
+across React, Next.js, Angular, and Node.js.
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <h3 align="center"><a href="https://github.com/sylvester-francis/ota-deploy-tracker">OTA Deploy Tracker</a></h3>
@@ -240,35 +339,14 @@ Production-ready 1.5B-7B models with LoRA fine-tuning, optimized for React, Next
 
 ![Stars](https://img.shields.io/github/stars/sylvester-francis/ota-deploy-tracker?style=for-the-badge&color=f59e0b&label=Stars&logo=github)
 
-</div>
-
-> Progressive K8s deployment manager
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 
-Kubernetes deployment manager with FastAPI backend, Streamlit dashboard, and Prometheus monitoring for tracking progressive rollouts in real time.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center"><a href="https://github.com/sylvester-francis/Sentry">Sentry</a></h3>
-
-<div align="center">
-
-![Stars](https://img.shields.io/github/stars/sylvester-francis/Sentry?style=for-the-badge&color=f59e0b&label=Stars&logo=github)
-
 </div>
 
-> Container security auditing for CI/CD
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Dagger](https://img.shields.io/badge/Dagger-131226?style=flat-square&logo=dagger&logoColor=white)
-
-Dagger module that integrates Trivy, Grype, and Snyk to perform vulnerability scans, enforce container best practices, and generate compliance reports in CI/CD pipelines.
+Kubernetes deployment manager with a FastAPI backend, Streamlit dashboard, and Prometheus
+monitoring for tracking progressive rollouts.
 
 </td>
 <td width="50%" valign="top">
@@ -279,15 +357,14 @@ Dagger module that integrates Trivy, Grype, and Snyk to perform vulnerability sc
 
 ![Stars](https://img.shields.io/github/stars/sylvester-francis/Lintelligence?style=for-the-badge&color=f59e0b&label=Stars&logo=github)
 
-</div>
-
-> AI-powered GitHub PR code reviewer
-
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![GPT4](https://img.shields.io/badge/GPT--4-412991?style=flat-square&logo=openai&logoColor=white)
 
-Automatically reviews GitHub pull requests using GPT-4. Detects code smells, security issues, and anti-patterns, then posts constructive inline feedback.
+</div>
+
+Reviews GitHub pull requests with GPT-4. Detects code smells, security issues, and
+anti-patterns, then posts inline feedback.
 
 </td>
 </tr>
@@ -300,15 +377,14 @@ Automatically reviews GitHub pull requests using GPT-4. Detects code smells, sec
 
 ![Stars](https://img.shields.io/github/stars/sylvester-francis/Resource-Reserver?style=for-the-badge&color=f59e0b&label=Stars&logo=github)
 
-</div>
-
-> CLI resource reservation system
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Typer](https://img.shields.io/badge/Typer-009688?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-Full-featured CLI booking system with JWT auth, conflict resolution, and reservation management. Built with Python Typer + FastAPI backend.
+</div>
+
+CLI booking system with JWT auth, conflict resolution, and reservation management. Built with
+Python Typer and a FastAPI backend.
 
 </td>
 <td width="50%" valign="top">
@@ -319,15 +395,14 @@ Full-featured CLI booking system with JWT auth, conflict resolution, and reserva
 
 ![Stars](https://img.shields.io/github/stars/sylvester-francis/taskflow?style=for-the-badge&color=f59e0b&label=Stars&logo=github)
 
-</div>
-
-> FastAPI task tracking with JWT & K8s support
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
-Production-ready task tracking system with JWT authentication, role-based access control, and Kubernetes deployment manifests. Built with FastAPI and PostgreSQL.
+</div>
+
+Task tracking with JWT authentication, role-based access control, and Kubernetes manifests.
+Built with FastAPI and PostgreSQL.
 
 </td>
 </tr>
@@ -374,12 +449,12 @@ Production-ready task tracking system with JWT authentication, role-based access
 
 <div align="center">
 
-| Platform | What I Write About |
+| Platform | What I write about |
 |:---:|:---|
-| <a href="https://techwithsyl.substack.com"><img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" height="28"/></a> | DevOps tooling, container security, Dagger deep dives, career transition guides |
-| <a href="https://medium.com/@sylvesterranjithfrancis"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" height="28"/></a> | GenAI architectures, agent design patterns, cloud infrastructure deep dives |
-| <a href="https://www.linkedin.com/in/sylvesterranjith/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/></a> | Career insights, tech industry trends, developer mentoring tips |
-| <a href="https://www.youtube.com/@TechWithSyl"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="28"/></a> | Tech tutorials, project walkthroughs, coding sessions |
+| <a href="https://medium.com/@sylvesterranjithfrancis"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" height="28"/></a> | Platform engineering, infrastructure, and agent design for an expert audience |
+| <a href="https://techwithsyl.substack.com"><img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" height="28"/></a> | DevOps tooling, container security, and Dagger deep dives |
+| <a href="https://www.linkedin.com/in/sylvesterranjith/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/></a> | Engineering notes, industry trends, and developer mentoring |
+| <a href="https://www.youtube.com/@TechWithSyl"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="28"/></a> | Tutorials, project walkthroughs, and coding sessions |
 
 </div>
 
@@ -401,15 +476,15 @@ Production-ready task tracking system with JWT authentication, role-based access
 
 ```
 +---------------------------+---------------------------+---------------------------+
-|      AI SOLUTIONS         |   CLOUD ARCHITECTURE      |    DEVOPS & SECURITY      |
+|     PLATFORM & INFRA      |   CLOUD ARCHITECTURE      |    DEVOPS & SECURITY      |
 |                           |                           |                           |
-|  Multi-agent systems,     |  AWS & Azure infra        |  CI/CD, container         |
-|  GenAI platforms, and     |  with security and        |  security, monitoring,    |
-|  intelligent automation   |  cost optimization        |  deploy automation        |
+|  Self-service platforms,  |  OpenStack, AWS, Azure    |  CI/CD, container         |
+|  golden-image pipelines,  |  infrastructure and IaC   |  security, monitoring,    |
+|  and developer tooling    |  on Kubernetes            |  and deploy automation    |
 +---------------------------+---------------------------+---------------------------+
 |    CAREER MENTORING       |      CODE REVIEW          |  TECHNICAL CONSULTING     |
 |                           |                           |                           |
-|  1:1 sessions for         |  Expert reviews, best     |  System architecture      |
+|  1:1 sessions for         |  Reviews, best            |  System architecture      |
 |  career transitions,      |  practices, and           |  and technology           |
 |  interview prep, resume   |  technical mentorship     |  strategy for teams       |
 +---------------------------+---------------------------+---------------------------+
@@ -441,7 +516,7 @@ Production-ready task tracking system with JWT authentication, role-based access
 
 <br/><br/>
 
-**Based in Waterloo, ON, Canada** :canada:
+**Based in Waterloo, ON, Canada**
 
 <br/>
 
