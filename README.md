@@ -64,6 +64,28 @@ build open-source tooling, and write for an expert engineering audience.
 
 <div align="center">
 
+## Path
+
+</div>
+
+<br/>
+
+```mermaid
+timeline
+  title Engineering path
+  Earlier : Master's in CS (VIT) : Published ML researcher
+  OpenText : ETL and data engineering : ML model delivery
+  Now : Principal Platform Engineer : Self-service platforms and golden-image pipelines
+```
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
 ## Control Plane
 
 </div>
@@ -101,6 +123,27 @@ flowchart LR
 
 <br/>
 
+<div align="center">
+
+### Authorization check
+
+</div>
+
+<br/>
+
+```mermaid
+sequenceDiagram
+  actor Dev
+  Dev->>IDP: request resource
+  IDP->>Keto: check(relation tuple)
+  Keto->>Keto: traverse hierarchy via OPL
+  Keto-->>IDP: allow or deny
+  IDP-->>Dev: 200 or 403
+  IDP->>Audit: log decision
+```
+
+<br/>
+
 ---
 
 <br/>
@@ -113,55 +156,44 @@ flowchart LR
 
 <br/>
 
-<table align="center">
-<tr>
-<td align="center" width="25%">
-
-<h4>Languages</h4>
-
-<img src="https://skillicons.dev/icons?i=go,typescript,python,rust&perline=4&theme=dark" />
-
-</td>
-<td align="center" width="25%">
-
-<h4>Cloud & Infrastructure</h4>
-
-<img src="https://skillicons.dev/icons?i=kubernetes,aws,azure,docker&perline=4&theme=dark" />
-
-<br/><br/>
-
-![OpenStack](https://img.shields.io/badge/OpenStack-ED1944?style=flat-square&logo=openstack&logoColor=white)
-![OpenTofu](https://img.shields.io/badge/OpenTofu-FFDA18?style=flat-square&logo=opentofu&logoColor=black)
-![Vault](https://img.shields.io/badge/Vault-000?style=flat-square&logo=vault&logoColor=white)
-
-</td>
-<td align="center" width="25%">
-
-<h4>Platform Tooling</h4>
-
-![Dagger](https://img.shields.io/badge/Dagger-131226?style=flat-square&logo=dagger&logoColor=white)
-![gophercloud](https://img.shields.io/badge/gophercloud-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Ory](https://img.shields.io/badge/Ory-000?style=flat-square&logo=ory&logoColor=white)
-![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aqua&logoColor=white)
-
-</td>
-<td align="center" width="25%">
-
-<h4>Backend & AI</h4>
-
-<img src="https://skillicons.dev/icons?i=nestjs,react,nodejs,postgres&perline=4&theme=dark" />
-
-<br/><br/>
-
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000?style=flat-square&logo=opentelemetry&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_API-191919?style=flat-square&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
-
-</td>
-</tr>
-</table>
+```mermaid
+mindmap
+  root((platform))
+    Languages
+      Go
+      TypeScript
+      Python
+      Rust
+    Cloud
+      Kubernetes
+      OpenStack
+      AWS
+      Azure
+    Build and IaC
+      Dagger
+      DBOS
+      OpenTofu
+      gophercloud
+    Identity and Security
+      Ory Kratos
+      Ory Keto
+      Ory Hydra
+      Trivy
+      OpenSCAP
+      Vault
+    Backend
+      NestJS
+      React
+      PostgreSQL
+    Observability
+      OpenTelemetry
+    AI and Agentic
+      LangChain
+      LangGraph
+      MCP
+      Claude API
+      OpenAI API
+```
 
 <br/>
 
@@ -445,6 +477,14 @@ Built with FastAPI and PostgreSQL.
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sylvester-francis&bg_color=0d1117&color=818cf8&line=6366f1&point=22c55e&area=true&area_color=6366f1&hide_border=true&custom_title=Contribution%20Activity" width="92%"/>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sylvester-francis/sylvester-francis/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sylvester-francis/sylvester-francis/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake traversing the contribution graph" src="https://raw.githubusercontent.com/sylvester-francis/sylvester-francis/output/github-contribution-grid-snake.svg" width="92%" />
+</picture>
 
 </div>
 
