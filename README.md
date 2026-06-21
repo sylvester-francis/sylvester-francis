@@ -108,7 +108,7 @@ MORE
 
 ## 04 / WRITING
 
-Latest from Medium, updated daily.
+Latest from Medium and Substack, updated daily.
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
