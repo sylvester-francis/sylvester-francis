@@ -121,6 +121,11 @@ MORE
 **Substack** · updated daily
 
 <!-- SUBSTACK-POST-LIST:START -->
+- [What Happens When Your Monitoring Can't See Behind the Firewall](https://techwithsyl.substack.com/p/what-happens-when-your-monitoring)
+- [Building Sentry: A Container Security Scanner with Dagger](https://techwithsyl.substack.com/p/building-sentry-a-container-security)
+- [Build Your Own TypeScript AI Code Assistant - A Production Tutorial](https://techwithsyl.substack.com/p/build-your-own-typescript-ai-code)
+- [What Happens When You Stop Trusting the Cloud: My $15/Month Alternative](https://techwithsyl.substack.com/p/what-happens-when-you-stop-trusting)
+- [Building Transparent AI Content Pipelines](https://techwithsyl.substack.com/p/building-transparent-ai-content-pipelines)
 <!-- SUBSTACK-POST-LIST:END -->
 
 [Medium](https://medium.com/@sylvesterranjithfrancis) · [Substack](https://techwithsyl.substack.com) · [LinkedIn](https://www.linkedin.com/in/sylvesterranjith/) · [YouTube](https://www.youtube.com/@TechWithSyl)

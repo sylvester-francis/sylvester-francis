@@ -22,12 +22,39 @@ jobs:
           comment_tag_name: "MEDIUM-POST-LIST"
           max_post_count: 5
 
-      - name: Pull latest Substack posts
-        uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          # Substack 403s direct requests from CI, so fetch through an RSS proxy.
-          feed_list: "https://api.allorigins.win/raw?url=https%3A%2F%2Ftechwithsyl.substack.com%2Ffeed"
-          comment_tag_name: "SUBSTACK-POST-LIST"
-          max_post_count: 5
-          user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-          accept_header: "application/rss+xml, application/xml, text/xml; q=0.9, */*; q=0.8"
+      - name: Pull latest Substack posts (via rss2json)
+        run: |
+          # Substack 403s the GitHub runner directly, so fetch through rss2json,
+          # which retrieves the feed server-side and returns JSON.
+          resp=$(curl -s -m 30 "https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Ftechwithsyl.substack.com%2Ffeed" || true)
+          echo "$resp" | jq -r 'if .status == "ok" then (.items[0:5][] | "- [\(.title)](\(.link))") else empty end' > /tmp/substack.md 2>/dev/null || true
+          if [ ! -s /tmp/substack.md ]; then
+            echo "No Substack items fetched; leaving the section unchanged."
+            exit 0
+          fi
+          python3 - <<'PY'
+          import re
+          posts = open("/tmp/substack.md", encoding="utf-8").read().strip()
+          readme = open("README.md", encoding="utf-8").read()
+          block = "<!-- SUBSTACK-POST-LIST:START -->\n" + posts + "\n<!-- SUBSTACK-POST-LIST:END -->"
+          readme = re.sub(
+              r"<!-- SUBSTACK-POST-LIST:START -->.*?<!-- SUBSTACK-POST-LIST:END -->",
+              lambda _m: block,
+              readme,
+              flags=re.S,
+          )
+          open("README.md", "w", encoding="utf-8").write(readme)
+          print("Updated the Substack section.")
+          PY
+
+      - name: Commit Substack changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if git diff --cached --quiet; then
+            echo "No Substack changes to commit."
+          else
+            git commit -m "Update latest Substack posts"
+            git push
+          fi
