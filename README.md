@@ -14,7 +14,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&repeat=true&width=640&height=45&lines=8%2B+years+in+platform+and+infrastructure+engineering;Go+%7C+Kubernetes+%7C+OpenStack+%7C+Ory;Self-service+platforms+and+golden-image+pipelines;Open-source+tooling+for+infra+and+agentic+AI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&repeat=true&width=680&height=45&lines=8%2B+years+in+platform+and+infrastructure+engineering;Go+%7C+Python+%7C+Kubernetes+%7C+OpenStack+%7C+Ory;Self-service+platforms+and+golden-image+pipelines;Open-source+tooling+for+infra+and+agentic+AI" alt="Typing SVG" />
 
 <br/>
 
@@ -24,42 +24,37 @@
 
 <br/>
 
-## `> whoami`
+## `systemctl status sylvester.platform`
 
-```yaml
-name: Sylvester Ranjith Francis
-location: Waterloo, ON, Canada
-role: Principal Platform Engineer @ Intuitive.ai
-experience: 8+ years in platform and infrastructure engineering
-primary_language: Go
-also: TypeScript, Python, Rust
-
-what_i_own:
-  - Self-service developer platform built from the ground up to drive a
-    VMware vSphere to OpenStack migration
-  - Enterprise golden-image platform: build, scan, approve, promote, distribute
-  - Identity and authorization layer for the platform
-
-background:
-  - Master's in CS from VIT
-  - Big Data & Security certifications from Conestoga (High Distinction)
-  - Published ML researcher (brain tumor prediction using FCNNs)
-  - Built ETL pipelines and data engineering systems at OpenText
-
-community:
-  - 4K+ LinkedIn followers | 500+ professional connections
-
-writing:
-  - Open-source tooling and engineering deep dives for an expert audience
+```ini
+● sylvester.platform - Principal Platform Engineer
+     Loaded: loaded (8+ years; platform and infrastructure engineering)
+     Active: running
+   Location: Waterloo, ON, Canada
+    Primary: Go        Also: TypeScript, Python, Rust
+       Owns: golden-image platform, authorization, orchestration
+    Writing: open-source tooling and engineering deep dives
 ```
+
+I am a Principal Platform Engineer with 8+ years in platform and infrastructure
+engineering. I architected a self-service developer platform from the ground up to drive a
+large-scale VMware vSphere to OpenStack migration, and I now lead an enterprise
+golden-image platform and own its identity and authorization layer. I work primarily in Go,
+build open-source tooling, and write for an expert engineering audience.
+
+<details>
+<summary><code>$ uname -a   # background, community, awards</code></summary>
 
 <br/>
 
-I am a Principal Platform Engineer at Intuitive.ai with 8+ years in platform and
-infrastructure engineering. I architected a self-service developer platform from the
-ground up to drive a large-scale VMware vSphere to OpenStack migration, and I now lead an
-enterprise golden-image platform and own its identity and authorization layer. I work
-primarily in Go, build open-source tooling, and write for an expert engineering audience.
+- Master's in CS from VIT
+- Big Data and Security certifications from Conestoga (High Distinction)
+- Published ML researcher (brain tumor prediction using FCNNs)
+- Built ETL pipelines and data engineering systems at OpenText
+- 4K+ LinkedIn followers, 500+ professional connections
+- Outstanding Achievement Award (OpenText), High Distinction in Big Data and in Security, ML Engineer Nanodegree (Udacity)
+
+</details>
 
 <br/>
 
@@ -69,22 +64,40 @@ primarily in Go, build open-source tooling, and write for an expert engineering 
 
 <div align="center">
 
-## What I'm working on
+## Control Plane
 
 </div>
 
 <br/>
 
-**Golden-image platform.** Build, scan (Trivy, OpenSCAP), mandatory approval gate, promote,
-and multi-region OpenStack Glance distribution. Dual-cloud ephemeral builders (OpenStack and
-AWS EC2), Dagger-executed builds, DBOS durable workflows, and reliability hardening.
+```mermaid
+flowchart LR
+  dev([Developers]) --> idp["Self-service IDP"]
+  authz["Authorization<br/>Ory Keto + Kratos"] -. guards .-> idp
+  idp --> build["Build<br/>Dagger"]
+  builders["Ephemeral builders<br/>OpenStack + AWS EC2"] --> build
+  build --> scan["Scan<br/>Trivy, OpenSCAP"]
+  scan --> gate{"Approval<br/>gate"}
+  gate --> promote["Promote"]
+  promote --> glance[("Glance<br/>multi-region")]
+  dbos["DBOS<br/>durable workflows"] -. orchestrates .-> build
+  otel["OpenTelemetry"] -. observes .-> idp
 
-**Authorization platform.** Hierarchical RBAC on Ory Keto relation tuples, multi-tenant
-hierarchy, check-time inheritance via Ory Permission Language, a live single-writer topology
-sync from OpenStack, identity and OIDC SSO on Ory Kratos, and audit logging.
+  classDef cp fill:#1e1b4b,stroke:#6366f1,color:#ffffff;
+  classDef pipe fill:#0b3b44,stroke:#06b6d4,color:#ffffff;
+  classDef side fill:#0d1117,stroke:#22c55e,color:#ffffff;
+  class idp,authz cp;
+  class build,scan,gate,promote,glance pipe;
+  class dev,builders,dbos,otel side;
+```
 
-**Platform orchestration.** A self-service internal developer platform, a Go OpenStack
-gateway (gophercloud), OpenTofu IaC on Kubernetes, and OpenTelemetry observability.
+<br/>
+
+| Component | State | What it does |
+|---|:---:|---|
+| **golden-image platform** | ![running](https://img.shields.io/badge/running-22c55e?style=flat-square) | Build, scan (Trivy, OpenSCAP), mandatory approval gate, promote, and multi-region OpenStack Glance distribution. Dual-cloud ephemeral builders (OpenStack and AWS EC2), Dagger-executed builds, DBOS durable workflows, and reliability hardening. |
+| **authorization platform** | ![running](https://img.shields.io/badge/running-22c55e?style=flat-square) | Hierarchical RBAC on Ory Keto relation tuples, multi-tenant hierarchy, check-time inheritance via Ory Permission Language, a live single-writer topology sync from OpenStack, identity and OIDC SSO on Ory Kratos, and audit logging. |
+| **platform orchestration** | ![running](https://img.shields.io/badge/running-22c55e?style=flat-square) | A self-service internal developer platform, a Go OpenStack gateway (gophercloud), OpenTofu IaC on Kubernetes, and OpenTelemetry observability. |
 
 <br/>
 
@@ -94,7 +107,7 @@ gateway (gophercloud), OpenTofu IaC on Kubernetes, and OpenTelemetry observabili
 
 <div align="center">
 
-## Tech Stack
+## Runtime
 
 </div>
 
@@ -158,7 +171,7 @@ gateway (gophercloud), OpenTofu IaC on Kubernetes, and OpenTelemetry observabili
 
 <div align="center">
 
-## Featured Open Source
+## Open Source
 
 </div>
 
@@ -241,15 +254,8 @@ from a declarative manifest.
 
 <br/>
 
----
-
-<br/>
-
-<div align="center">
-
-## More Projects
-
-</div>
+<details>
+<summary align="center"><code>$ ls ~/projects   # more open source</code></summary>
 
 <br/>
 
@@ -408,6 +414,8 @@ Built with FastAPI and PostgreSQL.
 </tr>
 </table>
 
+</details>
+
 <br/>
 
 ---
@@ -416,7 +424,7 @@ Built with FastAPI and PostgreSQL.
 
 <div align="center">
 
-## GitHub Stats
+## Telemetry
 
 <br/>
 
