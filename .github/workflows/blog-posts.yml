@@ -25,7 +25,8 @@ jobs:
       - name: Pull latest Substack posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://techwithsyl.substack.com/feed"
+          # Substack 403s direct requests from CI, so fetch through an RSS proxy.
+          feed_list: "https://api.allorigins.win/raw?url=https%3A%2F%2Ftechwithsyl.substack.com%2Ffeed"
           comment_tag_name: "SUBSTACK-POST-LIST"
           max_post_count: 5
           user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
