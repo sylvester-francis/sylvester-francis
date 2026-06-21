@@ -108,10 +108,15 @@ MORE
 
 ## 04 / WRITING
 
-Latest from Medium and Substack, updated daily.
+**Medium** · updated daily
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- MEDIUM-POST-LIST:START -->
+<!-- MEDIUM-POST-LIST:END -->
+
+**Substack** · updated daily
+
+<!-- SUBSTACK-POST-LIST:START -->
+<!-- SUBSTACK-POST-LIST:END -->
 
 [Medium](https://medium.com/@sylvesterranjithfrancis) · [Substack](https://techwithsyl.substack.com) · [LinkedIn](https://www.linkedin.com/in/sylvesterranjith/) · [YouTube](https://www.youtube.com/@TechWithSyl)
 

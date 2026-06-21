@@ -18,5 +18,13 @@ jobs:
       - name: Pull latest Medium posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://medium.com/feed/@sylvesterranjithfrancis,https://techwithsyl.substack.com/feed"
-          max_post_count: 6
+          feed_list: "https://medium.com/feed/@sylvesterranjithfrancis"
+          comment_tag_name: "MEDIUM-POST-LIST"
+          max_post_count: 5
+
+      - name: Pull latest Substack posts
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://techwithsyl.substack.com/feed"
+          comment_tag_name: "SUBSTACK-POST-LIST"
+          max_post_count: 5
