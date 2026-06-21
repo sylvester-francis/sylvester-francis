@@ -1,14 +1,12 @@
-# SYLVESTER FRANCIS
+<img src="assets/header.svg" width="100%" alt="Sylvester Francis - Principal Platform Engineer"/>
 
-**PRINCIPAL PLATFORM ENGINEER**
+<br>
 
 Platform and infrastructure engineering · 8+ years · Primary language Go
 
----
-
 I architected a self-service developer platform from the ground up to drive a large-scale VMware vSphere to OpenStack migration, and I now lead an enterprise golden-image platform and own its identity and authorization layer. I build open-source tooling and write for an expert engineering audience.
 
-<br>
+<img src="assets/rule.svg" width="100%" alt=""/>
 
 ## 01 / WORK
 
@@ -24,22 +22,54 @@ Hierarchical RBAC on Ory Keto relation tuples, multi-tenant hierarchy, check-tim
 
 A self-service internal developer platform, a Go OpenStack gateway (gophercloud), OpenTofu IaC on Kubernetes, and OpenTelemetry observability.
 
-<br>
+<img src="assets/rule.svg" width="100%" alt=""/>
 
 ## 02 / STACK
 
-```
-LANGUAGES      Go · TypeScript · Python · Rust
-CLOUD          Kubernetes · OpenStack · AWS · Azure
-BUILD / IAC    Dagger · DBOS · OpenTofu · gophercloud
-IDENTITY       Ory Kratos · Ory Keto · Ory Hydra · Vault
-SECURITY       Trivy · OpenSCAP
-BACKEND        NestJS · React · PostgreSQL
-OBSERVABILITY  OpenTelemetry
-AI / AGENTIC   LangChain · LangGraph · MCP · Claude API · OpenAI API
-```
+![LANGUAGES](https://img.shields.io/badge/LANGUAGES-ff5c00?style=flat-square&labelColor=ff5c00)
+![Go](https://img.shields.io/badge/Go-1c1c1f?style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-1c1c1f?style=flat-square)
+![Python](https://img.shields.io/badge/Python-1c1c1f?style=flat-square)
+![Rust](https://img.shields.io/badge/Rust-1c1c1f?style=flat-square)
 
-<br>
+![CLOUD](https://img.shields.io/badge/CLOUD-ff5c00?style=flat-square&labelColor=ff5c00)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-1c1c1f?style=flat-square)
+![OpenStack](https://img.shields.io/badge/OpenStack-1c1c1f?style=flat-square)
+![AWS](https://img.shields.io/badge/AWS-1c1c1f?style=flat-square)
+![Azure](https://img.shields.io/badge/Azure-1c1c1f?style=flat-square)
+
+![BUILD / IAC](https://img.shields.io/badge/BUILD%20%2F%20IAC-ff5c00?style=flat-square&labelColor=ff5c00)
+![Dagger](https://img.shields.io/badge/Dagger-1c1c1f?style=flat-square)
+![DBOS](https://img.shields.io/badge/DBOS-1c1c1f?style=flat-square)
+![OpenTofu](https://img.shields.io/badge/OpenTofu-1c1c1f?style=flat-square)
+![gophercloud](https://img.shields.io/badge/gophercloud-1c1c1f?style=flat-square)
+
+![IDENTITY](https://img.shields.io/badge/IDENTITY-ff5c00?style=flat-square&labelColor=ff5c00)
+![Ory Kratos](https://img.shields.io/badge/Ory%20Kratos-1c1c1f?style=flat-square)
+![Ory Keto](https://img.shields.io/badge/Ory%20Keto-1c1c1f?style=flat-square)
+![Ory Hydra](https://img.shields.io/badge/Ory%20Hydra-1c1c1f?style=flat-square)
+![Vault](https://img.shields.io/badge/Vault-1c1c1f?style=flat-square)
+
+![SECURITY](https://img.shields.io/badge/SECURITY-ff5c00?style=flat-square&labelColor=ff5c00)
+![Trivy](https://img.shields.io/badge/Trivy-1c1c1f?style=flat-square)
+![OpenSCAP](https://img.shields.io/badge/OpenSCAP-1c1c1f?style=flat-square)
+
+![BACKEND](https://img.shields.io/badge/BACKEND-ff5c00?style=flat-square&labelColor=ff5c00)
+![NestJS](https://img.shields.io/badge/NestJS-1c1c1f?style=flat-square)
+![React](https://img.shields.io/badge/React-1c1c1f?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1c1c1f?style=flat-square)
+
+![OBSERVABILITY](https://img.shields.io/badge/OBSERVABILITY-ff5c00?style=flat-square&labelColor=ff5c00)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-1c1c1f?style=flat-square)
+
+![AI / AGENTIC](https://img.shields.io/badge/AI%20%2F%20AGENTIC-ff5c00?style=flat-square&labelColor=ff5c00)
+![LangChain](https://img.shields.io/badge/LangChain-1c1c1f?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-1c1c1f?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-1c1c1f?style=flat-square)
+![Claude API](https://img.shields.io/badge/Claude%20API-1c1c1f?style=flat-square)
+![OpenAI API](https://img.shields.io/badge/OpenAI%20API-1c1c1f?style=flat-square)
+
+<img src="assets/rule.svg" width="100%" alt=""/>
 
 ## 03 / OPEN SOURCE
 
@@ -74,7 +104,7 @@ MORE
 - [Resource Reserver](https://github.com/sylvester-francis/Resource-Reserver) · CLI booking system with JWT, Typer, and FastAPI
 - [TaskFlow](https://github.com/sylvester-francis/taskflow) · task tracking with JWT, FastAPI, and Kubernetes manifests
 
-<br>
+<img src="assets/rule.svg" width="100%" alt=""/>
 
 ## 04 / WRITING
 
@@ -85,23 +115,32 @@ Latest from Medium, updated daily.
 
 [Medium](https://medium.com/@sylvesterranjithfrancis) · [Substack](https://techwithsyl.substack.com) · [LinkedIn](https://www.linkedin.com/in/sylvesterranjith/) · [YouTube](https://www.youtube.com/@TechWithSyl)
 
-<br>
+<img src="assets/rule.svg" width="100%" alt=""/>
 
-## 05 / SERVICES
+## 05 / ACTIVITY
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sylvester-francis&show_icons=true&hide_border=true&bg_color=0b0b0c&title_color=ff5c00&icon_color=ff5c00&text_color=cfcfd4&include_all_commits=true&count_private=true" width="60%"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sylvester-francis/sylvester-francis/output/github-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/sylvester-francis/sylvester-francis/output/github-snake.svg" width="100%" />
+</picture>
+
+<img src="assets/rule.svg" width="100%" alt=""/>
+
+## 06 / SERVICES
 
 Platform and infrastructure · Cloud architecture on Kubernetes · DevOps and container security · Code review · Career mentoring · Technical consulting
 
 [Book a call](https://topmate.io/sylvester_francis)
 
-<br>
+<img src="assets/rule.svg" width="100%" alt=""/>
 
-## 06 / CONTACT
+## 07 / CONTACT
 
 [Portfolio](https://sylvesterranjithfrancis.com) · [GitHub](https://github.com/sylvester-francis) · [LinkedIn](https://www.linkedin.com/in/sylvesterranjith/) · [Email](mailto:sylvesterranjithfrancis@gmail.com) · [Instagram](https://instagram.com/techwithsyl)
 
 Waterloo, ON, Canada
-
----
 
 <details>
 <summary>BACKGROUND</summary>

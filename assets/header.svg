@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340" role="img" aria-label="Sylvester Francis - Principal Platform Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b0b0c"/>
+      <stop offset="1" stop-color="#161619"/>
+    </linearGradient>
+    <pattern id="grid" width="60" height="60" patternUnits="userSpaceOnUse">
+      <path d="M60 0H0V60" fill="none" stroke="#17171c" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="340" fill="url(#bg)"/>
+  <rect width="1200" height="340" fill="url(#grid)"/>
+
+  <text x="60" y="66" fill="#8a8a92" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="6">PLATFORM / INFRASTRUCTURE / OPEN SOURCE</text>
+  <rect x="60" y="80" width="64" height="6" fill="#ff5c00"/>
+
+  <text x="54" y="172" fill="#ffffff" font-family="Helvetica, Arial, sans-serif" font-size="86" font-weight="800" letter-spacing="1">SYLVESTER</text>
+  <text x="54" y="252" fill="#ffffff" font-family="Helvetica, Arial, sans-serif" font-size="86" font-weight="800" letter-spacing="1">FRANCIS</text>
+  <text x="60" y="300" fill="#ff5c00" font-family="Helvetica, Arial, sans-serif" font-size="20" font-weight="700" letter-spacing="6">PRINCIPAL PLATFORM ENGINEER</text>
+
+  <text x="1140" y="66" text-anchor="end" fill="#8a8a92" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="4">REV 2026</text>
+  <g text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-weight="700" letter-spacing="3" fill="#cfcfd4" font-size="18">
+    <text x="1140" y="152">8+ YEARS</text>
+    <text x="1140" y="186">GO</text>
+    <text x="1140" y="220">KUBERNETES</text>
+    <text x="1140" y="254">OPENSTACK</text>
+    <text x="1140" y="288">ORY</text>
+  </g>
+  <g fill="#ff5c00">
+    <rect x="1156" y="142" width="8" height="12"/>
+    <rect x="1156" y="176" width="8" height="12"/>
+    <rect x="1156" y="210" width="8" height="12"/>
+    <rect x="1156" y="244" width="8" height="12"/>
+    <rect x="1156" y="278" width="8" height="12"/>
+  </g>
+</svg>
