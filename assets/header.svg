@@ -7,18 +7,64 @@
     <pattern id="grid" width="60" height="60" patternUnits="userSpaceOnUse">
       <path d="M60 0H0V60" fill="none" stroke="#17171c" stroke-width="1"/>
     </pattern>
+    <linearGradient id="scan" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ff5c00" stop-opacity="0"/>
+      <stop offset="1" stop-color="#ff5c00" stop-opacity="0.35"/>
+    </linearGradient>
+    <clipPath id="reveal">
+      <rect x="60" y="266" width="0" height="44">
+        <animate attributeName="width" from="0" to="452" dur="1.4s" begin="0.9s" fill="freeze"/>
+      </rect>
+    </clipPath>
   </defs>
 
   <rect width="1200" height="340" fill="url(#bg)"/>
   <rect width="1200" height="340" fill="url(#grid)"/>
 
+  <!-- scanning beam -->
+  <g>
+    <rect x="-60" y="0" width="60" height="340" fill="url(#scan)">
+      <animate attributeName="x" values="-60;1200" dur="7s" begin="0s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="0" y="0" width="2" height="340" fill="#ff5c00" opacity="0.5">
+      <animate attributeName="x" values="0;1200" dur="7s" begin="0s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- top label -->
   <text x="60" y="66" fill="#8a8a92" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="6">PLATFORM / INFRASTRUCTURE / OPEN SOURCE</text>
-  <rect x="60" y="80" width="64" height="6" fill="#ff5c00"/>
+  <rect x="60" y="80" width="0" height="6" fill="#ff5c00">
+    <animate attributeName="width" from="0" to="64" dur="0.6s" begin="0.2s" fill="freeze"/>
+  </rect>
 
-  <text x="54" y="172" fill="#ffffff" font-family="Helvetica, Arial, sans-serif" font-size="86" font-weight="800" letter-spacing="1">SYLVESTER</text>
-  <text x="54" y="252" fill="#ffffff" font-family="Helvetica, Arial, sans-serif" font-size="86" font-weight="800" letter-spacing="1">FRANCIS</text>
-  <text x="60" y="300" fill="#ff5c00" font-family="Helvetica, Arial, sans-serif" font-size="20" font-weight="700" letter-spacing="6">PRINCIPAL PLATFORM ENGINEER</text>
+  <!-- name -->
+  <g fill="#ffffff" font-family="Helvetica, Arial, sans-serif" font-size="78" font-weight="800" letter-spacing="1">
+    <text x="56" y="156" opacity="0">SYLVESTER
+      <animate attributeName="opacity" from="0" to="1" dur="0.7s" begin="0.15s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" from="-26 0" to="0 0" dur="0.7s" begin="0.15s" fill="freeze"/>
+    </text>
+    <text x="56" y="230" opacity="0">FRANCIS
+      <animate attributeName="opacity" from="0" to="1" dur="0.7s" begin="0.35s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" from="-26 0" to="0 0" dur="0.7s" begin="0.35s" fill="freeze"/>
+    </text>
+  </g>
 
+  <!-- underline -->
+  <rect x="60" y="248" width="0" height="5" fill="#ff5c00">
+    <animate attributeName="width" from="0" to="300" dur="0.8s" begin="0.7s" fill="freeze"/>
+  </rect>
+
+  <!-- subtitle type-on -->
+  <g clip-path="url(#reveal)">
+    <text x="60" y="298" fill="#ff5c00" font-family="Helvetica, Arial, sans-serif" font-size="20" font-weight="700" letter-spacing="6">PRINCIPAL PLATFORM ENGINEER</text>
+  </g>
+  <!-- caret -->
+  <rect x="60" y="282" width="12" height="20" fill="#ff5c00">
+    <animate attributeName="x" from="60" to="516" dur="1.4s" begin="0.9s" fill="freeze"/>
+    <animate attributeName="opacity" values="1;0;1" dur="1s" begin="2.4s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- right column -->
   <text x="1140" y="66" text-anchor="end" fill="#8a8a92" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="4">REV 2026</text>
   <g text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-weight="700" letter-spacing="3" fill="#cfcfd4" font-size="18">
     <text x="1140" y="152">8+ YEARS</text>
@@ -28,10 +74,10 @@
     <text x="1140" y="288">ORY</text>
   </g>
   <g fill="#ff5c00">
-    <rect x="1156" y="142" width="8" height="12"/>
-    <rect x="1156" y="176" width="8" height="12"/>
-    <rect x="1156" y="210" width="8" height="12"/>
-    <rect x="1156" y="244" width="8" height="12"/>
-    <rect x="1156" y="278" width="8" height="12"/>
+    <rect x="1156" y="142" width="8" height="12"><animate attributeName="opacity" values="1;0.25;1" dur="2.4s" begin="0s" repeatCount="indefinite"/></rect>
+    <rect x="1156" y="176" width="8" height="12"><animate attributeName="opacity" values="1;0.25;1" dur="2.4s" begin="0.25s" repeatCount="indefinite"/></rect>
+    <rect x="1156" y="210" width="8" height="12"><animate attributeName="opacity" values="1;0.25;1" dur="2.4s" begin="0.5s" repeatCount="indefinite"/></rect>
+    <rect x="1156" y="244" width="8" height="12"><animate attributeName="opacity" values="1;0.25;1" dur="2.4s" begin="0.75s" repeatCount="indefinite"/></rect>
+    <rect x="1156" y="278" width="8" height="12"><animate attributeName="opacity" values="1;0.25;1" dur="2.4s" begin="1s" repeatCount="indefinite"/></rect>
   </g>
 </svg>
