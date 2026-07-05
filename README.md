@@ -111,11 +111,11 @@ MORE
 **Medium** · updated daily
 
 <!-- MEDIUM-POST-LIST:START -->
+- [Your AI agent doesn’t know when to quit. So I built a leash.](https://medium.com/@sylvesterranjithfrancis/your-ai-agent-doesnt-know-when-to-quit-so-i-built-a-leash-765b67736cba?source=rss-b2e231d8e9db------2)
+- [Your Agent Crashed. It Paid for Everything Twice.](https://medium.com/@sylvesterranjithfrancis/your-agent-crashed-it-paid-for-everything-twice-47e01174c21c?source=rss-b2e231d8e9db------2)
 - [My Tests Were Green. The Code Was Broken.](https://medium.com/@sylvesterranjithfrancis/my-tests-were-green-the-code-was-broken-b4f4780cc306?source=rss-b2e231d8e9db------2)
 - [Your Code Is Correct. It Still Charged the Customer Twice.](https://medium.com/@sylvesterranjithfrancis/your-code-is-correct-it-still-charged-the-customer-twice-3719abd896dd?source=rss-b2e231d8e9db------2)
 - [Production Authorization: The Dual-Write Hazard, and a Blueprint for Machine Identity](https://medium.com/@sylvesterranjithfrancis/production-authorization-the-dual-write-hazard-and-a-blueprint-for-machine-identity-0ade10b53aa3?source=rss-b2e231d8e9db------2)
-- [Authentication at the Edge: The Identity-Aware Proxy Pattern &lpar;and the One Header That Gets You…](https://medium.com/@sylvesterranjithfrancis/authentication-at-the-edge-the-identity-aware-proxy-pattern-and-the-one-header-that-gets-you-633cc2b6a2d2?source=rss-b2e231d8e9db------2)
-- [RBAC Is Technical Debt: Zanzibar-Style Authorization in TypeScript](https://medium.com/@sylvesterranjithfrancis/rbac-is-technical-debt-zanzibar-style-authorization-in-typescript-42cefc94d4e2?source=rss-b2e231d8e9db------2)
 <!-- MEDIUM-POST-LIST:END -->
 
 **Substack** · updated daily
