@@ -69,7 +69,8 @@ Instagram-ready, 1080x1080 unless noted (PNG + JPG).
 | `pillar-02-1080` | Platform & Infrastructure Engineering |
 | `pillar-03-1080` | Enterprise Full-Stack Solutions |
 | `open-for-work-1080` | Availability / CTA |
-| `founder-about-1080` | Founder / About |
+| `founder-about-1080` | Founder / About (with headshot) |
+| `founder-avatar-400` | Founder circular avatar (400x400) |
 
 Tip: post `what-we-do` + `pillar-01/02/03` as a single carousel.
 
