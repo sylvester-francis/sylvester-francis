@@ -25,6 +25,7 @@ Typography: heavy geometric sans, uppercase and tracked for the wordmark (Helvet
 | `syltech-logo-horizontal.svg` / `.png` | Icon + wordmark, for headers and signatures |
 | `syltech-logo-stacked.svg` / `.png` | Vertical lockup, for square spaces |
 | `syltech-mark-transparent.svg` / `.png` | S mark only, transparent background |
+| `syltech-logo-horizontal-light.svg` / `.png` | Light-background lockup (dark wordmark) for invoices/docs |
 
 ## Favicon (`favicon/`)
 
@@ -73,6 +74,13 @@ Instagram-ready, 1080x1080 unless noted (PNG + JPG).
 | `founder-avatar-400` | Founder circular avatar (400x400) |
 
 Tip: post `what-we-do` + `pillar-01/02/03` as a single carousel.
+
+## Templates (`templates/`)
+
+| File | Use |
+|---|---|
+| `invoice-template.html` | Branded, print-to-PDF invoice (open, edit `[bracketed]` fields, print) |
+| `WAVE-SETUP.md` | How to brand invoices in Wave (logo, `#ff5c00`, business info, tax) |
 
 ## Regenerating
 
