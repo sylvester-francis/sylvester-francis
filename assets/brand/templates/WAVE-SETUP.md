@@ -6,7 +6,8 @@ Wave generates invoices from its own builder — you can't upload a custom HTML/
 Settings → Business:
 - **Business name:** Syltech AI Systems, Inc.
 - **Address:** Kitchener, ON, Canada
-- **Email:** sylvesterranjithfrancis@gmail.com
+- **Email:** hello@syltechai.dev
+- **Website:** https://syltechai.dev
 - **Currency:** CAD
 
 ## 2. Logo
