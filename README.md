@@ -111,11 +111,11 @@ MORE
 **Medium** · updated daily
 
 <!-- MEDIUM-POST-LIST:START -->
+- [Commodity inference is the real GLM-5.2 story](https://medium.com/@sylvesterranjithfrancis/commodity-inference-is-the-real-glm-5-2-story-d83c5f626ea1?source=rss-b2e231d8e9db------2)
 - [Your agent will crash, and it will overspend. I built the runner that survives both.](https://medium.com/@sylvesterranjithfrancis/your-agent-will-crash-and-it-will-overspend-i-built-the-runner-that-survives-both-fd35ffc7dbb4?source=rss-b2e231d8e9db------2)
 - [Your AI agent doesn’t know when to quit. So I built a leash.](https://medium.com/@sylvesterranjithfrancis/your-ai-agent-doesnt-know-when-to-quit-so-i-built-a-leash-765b67736cba?source=rss-b2e231d8e9db------2)
 - [Your Agent Crashed. It Paid for Everything Twice.](https://medium.com/@sylvesterranjithfrancis/your-agent-crashed-it-paid-for-everything-twice-47e01174c21c?source=rss-b2e231d8e9db------2)
 - [My Tests Were Green. The Code Was Broken.](https://medium.com/@sylvesterranjithfrancis/my-tests-were-green-the-code-was-broken-b4f4780cc306?source=rss-b2e231d8e9db------2)
-- [Your Code Is Correct. It Still Charged the Customer Twice.](https://medium.com/@sylvesterranjithfrancis/your-code-is-correct-it-still-charged-the-customer-twice-3719abd896dd?source=rss-b2e231d8e9db------2)
 <!-- MEDIUM-POST-LIST:END -->
 
 **Substack** · updated daily
