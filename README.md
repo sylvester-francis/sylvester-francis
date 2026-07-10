@@ -121,11 +121,11 @@ MORE
 **Substack** · updated daily
 
 <!-- SUBSTACK-POST-LIST:START -->
+- [Local AI has a mothership problem](https://techwithsyl.substack.com/p/local-ai-has-a-mothership-problem)
 - [The GLM-5.2 number that lands on your bill](https://techwithsyl.substack.com/p/the-glm-52-number-that-lands-on-your)
 - [One idea, three tools](https://techwithsyl.substack.com/p/one-idea-three-tools)
 - [Loop economics](https://techwithsyl.substack.com/p/loop-economics)
 - [What Happens When Your Monitoring Can't See Behind the Firewall](https://techwithsyl.substack.com/p/what-happens-when-your-monitoring)
-- [Building Sentry: A Container Security Scanner with Dagger](https://techwithsyl.substack.com/p/building-sentry-a-container-security)
 <!-- SUBSTACK-POST-LIST:END -->
 
 [Medium](https://medium.com/@sylvesterranjithfrancis) · [Substack](https://techwithsyl.substack.com) · [LinkedIn](https://www.linkedin.com/in/sylvesterranjith/) · [YouTube](https://www.youtube.com/@TechWithSyl)
