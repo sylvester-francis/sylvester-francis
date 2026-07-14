@@ -1,42 +1,26 @@
 # CLAUDE.md — standing orders for any AI session in this repo
 
-This is Sylvester Francis's profile repo AND the home of his automation
-system. Read this before doing anything.
+This is Sylvester Francis's PUBLIC profile repo — the shop window. It
+holds the profile README, brand assets (`assets/brand/`), and the two
+README-maintenance workflows (blog-posts, snake). Keep it presentational.
 
-## Load context first
+## Where the real context lives
 
-For ANY writing, drafting, positioning, pitch, bio, or marketing task:
-read `context/manifest.yaml`, then load the pack in its load order
-(`VOICE.md`, `SYLTECH.md`, `PROJECTS.md`, `RECENT.md`). Do not ask the
-user to re-explain who he is, what Syltech does, or what his projects are
-— that is what the pack is for. Follow `VOICE.md` exactly; its banned list
-is absolute.
+The canonical context pack (voice, company, projects) and the automation
+system (morning scout, context pack refresh, weekly scorecard) live in the
+PRIVATE repo `sylvester-francis/syltech-ops`. For any writing, drafting,
+positioning, or pitch task, work from that repo's `context/` pack — do not
+ask the user to re-explain who he is, and do not reconstruct that context
+here from the README.
 
-## Ownership rules (do not violate)
+## Hard rules for this public repo
 
-- `context/RECENT.md` is machine-generated weekly. Never hand-edit it.
-- `context/VOICE.md`, `SYLTECH.md`, `PROJECTS.md`, `PLAYBOOK.md` are
-  human-owned. Edit them only when the user explicitly asks.
-- `automation/**` and `.github/workflows/**` are load-bearing and run
-  unattended. Change them only on explicit request, keep stdlib-only
-  Python, keep every threshold explicit, and run the selftests
-  (`python3 <script> --selftest`) before committing.
-
-## The automation map
-
-| Workflow | Schedule (UTC) | Script | Output |
-|---|---|---|---|
-| `scout.yml` | daily 09:30 | `automation/scout/scout.py` | issue `Scout · <date>` (`scout-brief`) |
-| `context-pack.yml` | Sun 10:00 | `automation/pack/pack_refresh.py` | `context/RECENT.md` + `pack-stale` issues |
-| `scorecard.yml` | Mon 11:00 | `automation/scorecard/scorecard.py` | issue `Scorecard · …` (`scorecard`) |
-
-Failures arrive as issues labeled `automation-failure` with a JSON block.
-Full specs and ops: `automation/README.md`.
-
-## Behavior rules
-
+- Never add operational content here: no story briefs, no keyword or
+  strategy files, no scorecards, no pricing, nothing money-related.
+  Private things go in `syltech-ops`.
+- Do not touch `.github/workflows/blog-posts.yml` or `snake.yml` unless
+  explicitly asked — they keep the README fresh and other systems read
+  their output.
 - Never publish, post, email, or send content anywhere on the user's
-  behalf. Drafts and issues only.
-- Never put a number in a draft that is not verbatim from a source the
-  user can open.
+  behalf.
 - Do not create pull requests unless explicitly asked.
