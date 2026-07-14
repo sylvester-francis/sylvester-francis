@@ -1,0 +1,18 @@
+{
+  "_comment": "Fixed list of repos whose live facts (stars, last push, description) get pulled into context/RECENT.md weekly. Flagships render with detail; the rest as one-liners. Edit this list when a project is born or retired.",
+  "owner": "sylvester-francis",
+  "flagships": ["Watchdog", "Sentry", "ctxforge"],
+  "repos": [
+    "Watchdog",
+    "Sentry",
+    "ctxforge",
+    "Automated-Document-Compliance-Auditor",
+    "DocumentationGenerator",
+    "n8n-selfhoster",
+    "slm-typescript-model",
+    "ota-deploy-tracker",
+    "Lintelligence",
+    "Resource-Reserver",
+    "taskflow"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "_comment": "The beat, as fixed lists. Ranked by the owner on 2026-07-14: tier_a = agent engineering (primary), tier_b = AI-for-SMB / cost angle (secondary), tier_c = context boosters that never qualify a story alone. Scoring: score = sum(tier_weight x 2 if matched in title, x 1 if only in summary, each keyword counted once) + recency (+2 under 24h, +1 under 48h) + popularity (+3 at 300 points, +2 at 100, +1 at 50). A story must match at least one tier_a or tier_b keyword AND score >= threshold. Any negative keyword in the title kills the story (score 0). Review these lists quarterly — see context/PLAYBOOK.md.",
+  "threshold": 8,
+  "weights": { "tier_a": 3, "tier_b": 2, "tier_c": 1 },
+  "title_multiplier": 2,
+  "recency_bonus": { "under_24h": 2, "under_48h": 1 },
+  "popularity_bonus": { "300": 3, "100": 2, "50": 1 },
+  "max_item_age_days": 7,
+  "max_delivered": 3,
+  "seen_window_days": 21,
+  "own_overlap_jaccard": 0.5,
+  "tier_a": [
+    "agent", "agents", "agentic", "mcp", "model context protocol",
+    "tool use", "tool calling", "function calling", "harness",
+    "orchestration", "multi-agent", "subagent", "sub-agent",
+    "context engineering", "context window", "prompt injection",
+    "guardrail", "guardrails", "sandbox", "sandboxing",
+    "eval", "evals", "computer use", "coding agent", "claude code",
+    "codex", "copilot", "durable execution", "checkpoint",
+    "token budget", "long-running", "autonomous"
+  ],
+  "tier_b": [
+    "pricing", "price cut", "per token", "token price", "api cost",
+    "inference cost", "cost of running", "self-host", "self-hosted",
+    "on-prem", "on-premise", "open weights", "open-weight",
+    "local model", "local llm", "local inference", "small business",
+    "smb", "automation", "workflow", "roi", "gpu price",
+    "fine-tune", "fine-tuning", "rate limit", "rate limits", "billing"
+  ],
+  "tier_c": [
+    "claude", "anthropic", "openai", "gpt", "gemini", "llama",
+    "mistral", "qwen", "deepseek", "benchmark", "release", "launch",
+    "open source", "llm", "model", "inference", "kubernetes"
+  ],
+  "negative": [
+    "crypto", "bitcoin", "ethereum", "nft", "web3", "memecoin",
+    "who is hiring", "who wants to be hired", "freelancer? seeking freelancer"
+  ]
+}

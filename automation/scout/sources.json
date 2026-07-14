@@ -1,0 +1,46 @@
+{
+  "_comment": "Fixed source list for the morning scout. Every source was verified reachable, unauthenticated, from a datacenter IP on 2026-07-14. To add a source: it must return HTTP 200 without auth and parse with one of the existing parsers (rss|atom|algolia|lobsters). Test it with: python3 automation/scout/scout.py --dry-run",
+  "min_sources_ok": 2,
+  "sources": [
+    {
+      "id": "hn-front",
+      "type": "algolia",
+      "url": "https://hn.algolia.com/api/v1/search?tags=front_page&hitsPerPage=30"
+    },
+    {
+      "id": "hn-agents",
+      "type": "algolia",
+      "url": "https://hn.algolia.com/api/v1/search_by_date?query=agent&tags=story&numericFilters=points%3E20&hitsPerPage=30"
+    },
+    {
+      "id": "hn-mcp",
+      "type": "algolia",
+      "url": "https://hn.algolia.com/api/v1/search_by_date?query=mcp&tags=story&numericFilters=points%3E10&hitsPerPage=20"
+    },
+    {
+      "id": "lobsters",
+      "type": "lobsters",
+      "url": "https://lobste.rs/hottest.json"
+    },
+    {
+      "id": "simonwillison",
+      "type": "atom",
+      "url": "https://simonwillison.net/atom/everything/"
+    },
+    {
+      "id": "openai-news",
+      "type": "rss",
+      "url": "https://openai.com/news/rss.xml"
+    },
+    {
+      "id": "huggingface-blog",
+      "type": "rss",
+      "url": "https://huggingface.co/blog/feed.xml"
+    },
+    {
+      "id": "github-blog",
+      "type": "rss",
+      "url": "https://github.blog/feed/"
+    }
+  ]
+}
