@@ -121,11 +121,11 @@ MORE
 **Substack** · updated daily
 
 <!-- SUBSTACK-POST-LIST:START -->
+- [Agentic AI hit the Gartner peak. Getting down the other side is a plumbing job](https://techwithsyl.substack.com/p/agentic-ai-hit-the-gartner-peak-getting)
 - [The harness is the product now, not the model](https://techwithsyl.substack.com/p/the-harness-is-the-product-now-not)
 - [Dollars per resident gigabyte: reading the Ryzen AI Halo](https://techwithsyl.substack.com/p/dollars-per-resident-gigabyte-reading)
 - [Local AI has a mothership problem](https://techwithsyl.substack.com/p/local-ai-has-a-mothership-problem)
 - [The GLM-5.2 number that lands on your bill](https://techwithsyl.substack.com/p/the-glm-52-number-that-lands-on-your)
-- [One idea, three tools](https://techwithsyl.substack.com/p/one-idea-three-tools)
 <!-- SUBSTACK-POST-LIST:END -->
 
 [Medium](https://medium.com/@sylvesterranjithfrancis) · [Substack](https://techwithsyl.substack.com) · [LinkedIn](https://www.linkedin.com/in/sylvesterranjith/) · [YouTube](https://www.youtube.com/@TechWithSyl)
